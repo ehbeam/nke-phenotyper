@@ -1,0 +1,1739 @@
+DOMAIN,ID,TOKEN
+DEPRESSIVE,1410659,atypical depression (machine translation)
+DEPRESSIVE,44832235,atypical depressive disorder
+DEPRESSIVE,1410662,depression (machine translation)
+DEPRESSIVE,44833421,"depressive disorder, not elsewhere classified"
+DEPRESSIVE,45595904,depressive episode
+DEPRESSIVE,1410646,depressive episode
+DEPRESSIVE,1410660,"depressive episode, unspecified"
+DEPRESSIVE,45571760,"depressive episode, unspecified"
+DEPRESSIVE,1410661,"depressive episode, unspecified"
+DEPRESSIVE,37200321,disruptive mood dysregulation disorder
+DEPRESSIVE,1410685,dysthymia
+DEPRESSIVE,45586238,dysthymia
+DEPRESSIVE,1410684,dysthymia
+DEPRESSIVE,35207163,dysthymic disorder
+DEPRESSIVE,44836972,dysthymic disorder
+DEPRESSIVE,44827656,"major depressive affective disorder, recurrent episode, in full remission"
+DEPRESSIVE,44834589,"major depressive affective disorder, recurrent episode, in partial or unspecified remission"
+DEPRESSIVE,44829923,"major depressive affective disorder, recurrent episode, mild"
+DEPRESSIVE,44831090,"major depressive affective disorder, recurrent episode, moderate"
+DEPRESSIVE,44827655,"major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+DEPRESSIVE,44835785,"major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior"
+DEPRESSIVE,44831089,"major depressive affective disorder, recurrent episode, unspecified"
+DEPRESSIVE,44832232,"major depressive affective disorder, single episode, in full remission"
+DEPRESSIVE,44822976,"major depressive affective disorder, single episode, in partial or unspecified remission"
+DEPRESSIVE,44824114,"major depressive affective disorder, single episode, mild"
+DEPRESSIVE,44827654,"major depressive affective disorder, single episode, moderate"
+DEPRESSIVE,44820717,"major depressive affective disorder, single episode, severe, specified as with psychotic behavior"
+DEPRESSIVE,44835784,"major depressive affective disorder, single episode, severe, without mention of psychotic behavior"
+DEPRESSIVE,44822975,"major depressive affective disorder, single episode, unspecified"
+DEPRESSIVE,1568218,"major depressive disorder, recurrent"
+DEPRESSIVE,44825293,"major depressive disorder, recurrent episode"
+DEPRESSIVE,45571761,"major depressive disorder, recurrent, in full remission"
+DEPRESSIVE,45552479,"major depressive disorder, recurrent, in partial remission"
+DEPRESSIVE,1568219,"major depressive disorder, recurrent, in remission"
+DEPRESSIVE,45547706,"major depressive disorder, recurrent, in remission, unspecified"
+DEPRESSIVE,35207156,"major depressive disorder, recurrent, mild"
+DEPRESSIVE,35207157,"major depressive disorder, recurrent, moderate"
+DEPRESSIVE,35207158,"major depressive disorder, recurrent severe without psychotic features"
+DEPRESSIVE,35207159,"major depressive disorder, recurrent, severe with psychotic symptoms"
+DEPRESSIVE,35207161,"major depressive disorder, recurrent, unspecified"
+DEPRESSIVE,44821821,"major depressive disorder, single episode"
+DEPRESSIVE,1568217,"major depressive disorder, single episode"
+DEPRESSIVE,45547704,"major depressive disorder, single episode, in full remission"
+DEPRESSIVE,45576541,"major depressive disorder, single episode, in partial remission"
+DEPRESSIVE,35207150,"major depressive disorder, single episode, mild"
+DEPRESSIVE,35207151,"major depressive disorder, single episode, moderate"
+DEPRESSIVE,35207152,"major depressive disorder, single episode, severe without psychotic features"
+DEPRESSIVE,35207153,"major depressive disorder, single episode, severe with psychotic features"
+DEPRESSIVE,35207155,"major depressive disorder, single episode, unspecified"
+DEPRESSIVE,1410658,menopause depression (machine translation)
+DEPRESSIVE,45562041,mild depressive episode
+DEPRESSIVE,1410647,mild depressive episode
+DEPRESSIVE,1410648,mild depressive episode
+DEPRESSIVE,1410649,moderate depressive episode
+DEPRESSIVE,1410650,moderate depressive episode
+DEPRESSIVE,45552478,moderate depressive episode
+DEPRESSIVE,45561998,mood disorder due to known physiological condition with depressive features
+DEPRESSIVE,45581399,mood disorder due to known physiological condition with major depressive-like episode
+DEPRESSIVE,1410686,neurotic depression (machine translation)
+DEPRESSIVE,35207154,other depressive episodes
+DEPRESSIVE,45571759,other depressive episodes
+DEPRESSIVE,1410656,other depressive episodes
+DEPRESSIVE,1410657,other depressive episodes
+DEPRESSIVE,35207164,other persistent mood [affective] disorders
+DEPRESSIVE,45538066,other persistent mood [affective] disorders
+DEPRESSIVE,1410689,other persistent mood [affective] disorders
+DEPRESSIVE,1410688,other persistent mood [affective] disorders
+DEPRESSIVE,1410676,other recurrent depressive disorders
+DEPRESSIVE,45600740,other recurrent depressive disorders
+DEPRESSIVE,1410675,other recurrent depressive disorders
+DEPRESSIVE,35207160,other recurrent depressive disorders
+DEPRESSIVE,37200320,other specified depressive episodes
+DEPRESSIVE,37200322,other specified persistent mood disorders
+DEPRESSIVE,45557203,persistent mood [affective] disorders
+DEPRESSIVE,1410679,persistent mood [affective] disorders
+DEPRESSIVE,1568220,persistent mood [affective] disorders
+DEPRESSIVE,35207165,"persistent mood [affective] disorder, unspecified"
+DEPRESSIVE,1410690,"persistent mood [affective] disorder, unspecified"
+DEPRESSIVE,1410691,"persistent mood [affective] disorder, unspecified"
+DEPRESSIVE,45600741,"persistent mood [affective] disorder, unspecified"
+DEPRESSIVE,1595539,postpartum depression
+DEPRESSIVE,1410918,postpartum depression (machine translation)
+DEPRESSIVE,1410919,postpartum depression (machine translation)
+DEPRESSIVE,37200319,premenstrual dysphoric disorder
+DEPRESSIVE,1410664,recurrent depressive disorder
+DEPRESSIVE,45576542,recurrent depressive disorder
+DEPRESSIVE,1410665,"recurrent depressive disorder, current episode mild"
+DEPRESSIVE,45538065,"recurrent depressive disorder, current episode mild"
+DEPRESSIVE,1410666,"recurrent depressive disorder, current episode mild"
+DEPRESSIVE,1410667,"recurrent depressive disorder, current episode moderate"
+DEPRESSIVE,1410668,"recurrent depressive disorder, current episode moderate"
+DEPRESSIVE,45576543,"recurrent depressive disorder, current episode moderate"
+DEPRESSIVE,1410670,"recurrent depressive disorder, current episode severe without psychotic symptoms"
+DEPRESSIVE,45547705,"recurrent depressive disorder, current episode severe without psychotic symptoms"
+DEPRESSIVE,1410669,"recurrent depressive disorder, current episode severe without psychotic symptoms"
+DEPRESSIVE,1410672,"recurrent depressive disorder, current episode severe with psychotic symptoms"
+DEPRESSIVE,1410671,"recurrent depressive disorder, current episode severe with psychotic symptoms"
+DEPRESSIVE,45562042,"recurrent depressive disorder, current episode severe with psychotic symptoms"
+DEPRESSIVE,45533100,"recurrent depressive disorder, currently in remission"
+DEPRESSIVE,1410673,"recurrent depressive disorder, currently in remission"
+DEPRESSIVE,1410674,"recurrent depressive disorder, currently in remission"
+DEPRESSIVE,1410677,"recurrent depressive disorder, unspecified"
+DEPRESSIVE,1410678,"recurrent depressive disorder, unspecified"
+DEPRESSIVE,45581458,"recurrent depressive disorder, unspecified"
+DEPRESSIVE,1410652,severe depressive episode without psychotic symptoms
+DEPRESSIVE,1410651,severe depressive episode without psychotic symptoms
+DEPRESSIVE,45557202,severe depressive episode without psychotic symptoms
+DEPRESSIVE,1410654,severe depressive episode with psychotic symptoms
+DEPRESSIVE,45600739,severe depressive episode with psychotic symptoms
+DEPRESSIVE,1410653,severe depressive episode with psychotic symptoms
+ANXIETY,1568222,agoraphobia
+ANXIETY,1410424,agoraphobia
+ANXIETY,1410470,agoraphobia
+ANXIETY,45557204,agoraphobia
+ANXIETY,45552480,"agoraphobia, unspecified"
+ANXIETY,44826507,agoraphobia without mention of panic attacks
+ANXIETY,45542847,agoraphobia without panic disorder
+ANXIETY,45581459,agoraphobia with panic disorder
+ANXIETY,44827661,agoraphobia with panic disorder
+ANXIETY,45600693,alcohol abuse with alcohol-induced anxiety disorder
+ANXIETY,45566777,alcohol dependence with alcohol-induced anxiety disorder
+ANXIETY,45566781,"alcohol use, unspecified with alcohol-induced anxiety disorder"
+ANXIETY,35207120,anxiety disorder due to known physiological condition
+ANXIETY,44821812,anxiety disorder in conditions classified elsewhere
+ANXIETY,1410725,"anxiety disorder, unspecified"
+ANXIETY,35207173,"anxiety disorder, unspecified"
+ANXIETY,45542849,"anxiety disorder, unspecified"
+ANXIETY,1410726,"anxiety disorder, unspecified"
+ANXIETY,44836970,"anxiety, dissociative and somatoform disorders"
+ANXIETY,1410716,anxiety (machine translation)
+ANXIETY,1410717,anxiety neurosis (machine translation)
+ANXIETY,44820725,anxiety states
+ANXIETY,44832239,"anxiety state, unspecified"
+ANXIETY,1410709,a state of terror (machine translation)
+ANXIETY,45533069,cannabis abuse with cannabis-induced anxiety disorder
+ANXIETY,45595860,cannabis dependence with cannabis-induced anxiety disorder
+ANXIETY,45581417,"cannabis use, unspecified with anxiety disorder"
+ANXIETY,45595872,cocaine abuse with cocaine-induced anxiety disorder
+ANXIETY,45538033,cocaine dependence with cocaine-induced anxiety disorder
+ANXIETY,45586208,"cocaine use, unspecified with cocaine-induced anxiety disorder"
+ANXIETY,44829926,generalized anxiety disorder
+ANXIETY,1410715,generalized anxiety disorder
+ANXIETY,1410714,generalized anxiety disorder
+ANXIETY,45571764,generalized anxiety disorder
+ANXIETY,35207170,generalized anxiety disorder
+ANXIETY,45566808,hallucinogen abuse with hallucinogen-induced anxiety disorder
+ANXIETY,45571736,hallucinogen dependence with hallucinogen-induced anxiety disorder
+ANXIETY,45552452,"hallucinogen use, unspecified with hallucinogen-induced anxiety disorder"
+ANXIETY,1410778,hysterical mutism (machine translation)
+ANXIETY,45566813,inhalant abuse with inhalant-induced anxiety disorder
+ANXIETY,45586222,inhalant dependence with inhalant-induced anxiety disorder
+ANXIETY,45595889,"inhalant use, unspecified with inhalant-induced anxiety disorder"
+ANXIETY,45571704,organic anxiety disorder
+ANXIETY,1410258,organic anxiety disorder
+ANXIETY,1410257,organic anxiety disorder
+ANXIETY,1410710,other anxiety disorders
+ANXIETY,45571763,other anxiety disorders
+ANXIETY,1568230,other anxiety disorders
+ANXIETY,44831093,other anxiety states
+ANXIETY,44833403,other isolated or specific phobias
+ANXIETY,45605492,other mixed anxiety disorders
+ANXIETY,1410721,other mixed anxiety disorders
+ANXIETY,1410722,other mixed anxiety disorders
+ANXIETY,35207171,other mixed anxiety disorders
+ANXIETY,45552482,other phobic anxiety disorders
+ANXIETY,1410706,other phobic anxiety disorders
+ANXIETY,35207167,other phobic anxiety disorders
+ANXIETY,1410705,other phobic anxiety disorders
+ANXIETY,45562031,other psychoactive substance abuse with psychoactive substance-induced anxiety disorder
+ANXIETY,45591124,other psychoactive substance dependence with psychoactive substance-induced anxiety disorder
+ANXIETY,45547691,"other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder"
+ANXIETY,1410723,other specified anxiety disorders
+ANXIETY,1410724,other specified anxiety disorders
+ANXIETY,35207172,other specified anxiety disorders
+ANXIETY,45595908,other specified anxiety disorders
+ANXIETY,45533078,other stimulant abuse with stimulant-induced anxiety disorder
+ANXIETY,45566802,other stimulant dependence with stimulant-induced anxiety disorder
+ANXIETY,45538040,"other stimulant use, unspecified with stimulant-induced anxiety disorder"
+ANXIETY,1410713,panic attack (machine translation)
+ANXIETY,45562047,panic disorder [episodic paroxysmal anxiety]
+ANXIETY,35207169,panic disorder [episodic paroxysmal anxiety]
+ANXIETY,1410711,panic disorder [episodic paroxysmal anxiety]
+ANXIETY,1410712,panic disorder [episodic paroxysmal anxiety]
+ANXIETY,44826503,panic disorder without agoraphobia
+ANXIETY,44826506,"phobia, unspecified"
+ANXIETY,1411154,phobic anxiety disorder of childhood
+ANXIETY,1411153,phobic anxiety disorder of childhood
+ANXIETY,45562067,phobic anxiety disorder of childhood
+ANXIETY,1410702,phobic anxiety disorders
+ANXIETY,1568221,phobic anxiety disorders
+ANXIETY,45595906,phobic anxiety disorders
+ANXIETY,35207168,"phobic anxiety disorder, unspecified"
+ANXIETY,1410707,"phobic anxiety disorder, unspecified"
+ANXIETY,1410708,"phobic anxiety disorder, unspecified"
+ANXIETY,45542848,"phobic anxiety disorder, unspecified"
+ANXIETY,44821824,phobic disorders
+ANXIETY,45538021,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+ANXIETY,45562013,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+ANXIETY,45562015,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+ANXIETY,44834611,separation anxiety disorder
+ANXIETY,1411152,separation anxiety disorder of childhood
+ANXIETY,35207272,separation anxiety disorder of childhood
+ANXIETY,1411151,separation anxiety disorder of childhood
+ANXIETY,45576563,separation anxiety disorder of childhood
+ANXIETY,1411155,social anxiety disorder of childhood
+ANXIETY,45586264,social anxiety disorder of childhood
+ANXIETY,1411156,social anxiety disorder of childhood
+ANXIETY,44836971,social phobia
+ANXIETY,45600742,"social phobia, generalized"
+ANXIETY,1410517,social phobias
+ANXIETY,1568223,social phobias
+ANXIETY,1410637,social phobias
+ANXIETY,45595907,social phobias
+ANXIETY,45557205,"social phobia, unspecified"
+ANXIETY,1410703,specific (isolated) phobias
+ANXIETY,1410704,specific (isolated) phobias
+ANXIETY,45586240,specific (isolated) phobias
+ANXIETY,1568224,specific (isolated) phobias
+TRAUMA_STRESSOR,44825294,acute paranoid reaction
+TRAUMA_STRESSOR,1410580,acute paranoid state reaction (machine translation)
+TRAUMA_STRESSOR,44822993,acute reaction to stress
+TRAUMA_STRESSOR,45591139,acute stress reaction
+TRAUMA_STRESSOR,1410744,acute stress reaction
+TRAUMA_STRESSOR,1410745,acute stress reaction
+TRAUMA_STRESSOR,35207175,acute stress reaction
+TRAUMA_STRESSOR,1410752,adjustment disorders
+TRAUMA_STRESSOR,1410751,adjustment disorders
+TRAUMA_STRESSOR,1568233,adjustment disorders
+TRAUMA_STRESSOR,45533108,adjustment disorders
+TRAUMA_STRESSOR,45576546,"adjustment disorder, unspecified"
+TRAUMA_STRESSOR,44822995,adjustment disorder with anxiety
+TRAUMA_STRESSOR,45547707,adjustment disorder with anxiety
+TRAUMA_STRESSOR,44826524,adjustment disorder with depressed mood
+TRAUMA_STRESSOR,45581461,adjustment disorder with depressed mood
+TRAUMA_STRESSOR,44836989,adjustment disorder with disturbance of conduct
+TRAUMA_STRESSOR,45600747,adjustment disorder with disturbance of conduct
+TRAUMA_STRESSOR,45538069,adjustment disorder with mixed anxiety and depressed mood
+TRAUMA_STRESSOR,44832253,adjustment disorder with mixed anxiety and depressed mood
+TRAUMA_STRESSOR,45547708,adjustment disorder with mixed disturbance of emotions and conduct
+TRAUMA_STRESSOR,44828847,adjustment disorder with mixed disturbance of emotions and conduct
+TRAUMA_STRESSOR,45576547,adjustment disorder with other symptoms
+TRAUMA_STRESSOR,44829944,adjustment reaction
+TRAUMA_STRESSOR,44819560,adjustment reaction with physical symptoms
+TRAUMA_STRESSOR,44821831,adjustment reaction with predominant disturbance of other emotions
+TRAUMA_STRESSOR,44826526,adjustment reaction with withdrawal
+TRAUMA_STRESSOR,45538092,disinhibited attachment disorder of childhood
+TRAUMA_STRESSOR,35207277,disinhibited attachment disorder of childhood
+TRAUMA_STRESSOR,1411169,disinhibited attachment disorder of childhood
+TRAUMA_STRESSOR,1411170,disinhibited attachment disorder of childhood
+TRAUMA_STRESSOR,44829943,mixed disorders as reaction to stress
+TRAUMA_STRESSOR,44820738,other acute reactions to stress
+TRAUMA_STRESSOR,44833420,other adjustment reactions with predominant disturbance of other emotions
+TRAUMA_STRESSOR,44836969,other and unspecified reactive psychosis
+TRAUMA_STRESSOR,1410754,other reactions to severe stress
+TRAUMA_STRESSOR,45552483,other reactions to severe stress
+TRAUMA_STRESSOR,1410753,other reactions to severe stress
+TRAUMA_STRESSOR,35207176,other reactions to severe stress
+TRAUMA_STRESSOR,44829945,other specified adjustment reactions
+TRAUMA_STRESSOR,44824137,other specified adjustment reactions
+TRAUMA_STRESSOR,45595909,post-traumatic stress disorder
+TRAUMA_STRESSOR,1410748,post-traumatic stress disorder
+TRAUMA_STRESSOR,1410749,post-traumatic stress disorder
+TRAUMA_STRESSOR,44836990,posttraumatic stress disorder
+TRAUMA_STRESSOR,45576545,"post-traumatic stress disorder, acute"
+TRAUMA_STRESSOR,45586243,"post-traumatic stress disorder, chronic"
+TRAUMA_STRESSOR,1568232,post-traumatic stress disorder (ptsd)
+TRAUMA_STRESSOR,45600746,"post-traumatic stress disorder, unspecified"
+TRAUMA_STRESSOR,35225209,problems of adjustment to life-cycle transitions
+TRAUMA_STRESSOR,44826525,prolonged depressive reaction
+TRAUMA_STRESSOR,45557206,"reaction to severe stress, and adjustment disorders"
+TRAUMA_STRESSOR,1568231,"reaction to severe stress, and adjustment disorders"
+TRAUMA_STRESSOR,1410743,"reaction to severe stress, and adjustment disorders"
+TRAUMA_STRESSOR,1410760,"reaction to severe stress, unspecified"
+TRAUMA_STRESSOR,1410759,"reaction to severe stress, unspecified"
+TRAUMA_STRESSOR,45552484,"reaction to severe stress, unspecified"
+TRAUMA_STRESSOR,35207177,"reaction to severe stress, unspecified"
+TRAUMA_STRESSOR,1411168,reactive attachment disorder of childhood
+TRAUMA_STRESSOR,1411167,reactive attachment disorder of childhood
+TRAUMA_STRESSOR,35207276,reactive attachment disorder of childhood
+TRAUMA_STRESSOR,45605521,reactive attachment disorder of childhood
+TRAUMA_STRESSOR,44832237,reactive confusion
+TRAUMA_STRESSOR,1410663,reactive depression (machine translation)
+TRAUMA_STRESSOR,1410585,reactive psychosis (machine translation)
+TRAUMA_STRESSOR,44819559,unspecified acute reaction to stress
+TRAUMA_STRESSOR,44834612,unspecified adjustment reaction
+OBSESSIVE_COMPULSIVE,45533111,body dysmorphic disorder
+OBSESSIVE_COMPULSIVE,1410735,compulsive action (machine translation)
+OBSESSIVE_COMPULSIVE,1410731,compulsive syndrome (machine translation)
+OBSESSIVE_COMPULSIVE,1410730,compulsive thinking (machine translation)
+OBSESSIVE_COMPULSIVE,1419034,neurogenic excoriation (machine translation)
+OBSESSIVE_COMPULSIVE,1410727,obsessive-compulsive disorder
+OBSESSIVE_COMPULSIVE,35207174,obsessive-compulsive disorder
+OBSESSIVE_COMPULSIVE,45562048,obsessive-compulsive disorder
+OBSESSIVE_COMPULSIVE,1410742,obsessive-compulsive disorder (machine translation)
+OBSESSIVE_COMPULSIVE,44822985,obsessive-compulsive disorders
+OBSESSIVE_COMPULSIVE,1410741,"obsessive-compulsive disorder, unspecified"
+OBSESSIVE_COMPULSIVE,45600745,"obsessive-compulsive disorder, unspecified"
+OBSESSIVE_COMPULSIVE,1410740,"obsessive-compulsive disorder, unspecified"
+OBSESSIVE_COMPULSIVE,37200327,"obsessive-compulsive disorder, unspecified"
+OBSESSIVE_COMPULSIVE,35207216,obsessive-compulsive personality disorder
+OBSESSIVE_COMPULSIVE,44835794,obsessive-compulsive personality disorder
+OBSESSIVE_COMPULSIVE,37200326,other obsessive-compulsive disorder
+OBSESSIVE_COMPULSIVE,1410738,other obsessive-compulsive disorders
+OBSESSIVE_COMPULSIVE,1410739,other obsessive-compulsive disorders
+OBSESSIVE_COMPULSIVE,45533106,other obsessive-compulsive disorders
+OBSESSIVE_COMPULSIVE,1410733,predominantly compulsive acts [obsessional rituals]
+OBSESSIVE_COMPULSIVE,1410734,predominantly compulsive acts [obsessional rituals]
+OBSESSIVE_COMPULSIVE,45591138,predominantly compulsive acts [obsessional rituals]
+OBSESSIVE_COMPULSIVE,1410729,predominantly obsessional thoughts or ruminations
+OBSESSIVE_COMPULSIVE,1410728,predominantly obsessional thoughts or ruminations
+OBSESSIVE_COMPULSIVE,45605493,predominantly obsessional thoughts or ruminations
+OBSESSIVE_COMPULSIVE,45576556,trichotillomania
+OBSESSIVE_COMPULSIVE,1410978,trichotillomania
+OBSESSIVE_COMPULSIVE,1410979,trichotillomania
+OBSESSIVE_COMPULSIVE,35207223,trichotillomania
+DISRUPTIVE,44833424,"conduct disorder, adolescent onset type"
+DISRUPTIVE,35207268,"conduct disorder, adolescent-onset type"
+DISRUPTIVE,44835816,"conduct disorder, childhood onset type"
+DISRUPTIVE,35207267,"conduct disorder, childhood-onset type"
+DISRUPTIVE,35207266,conduct disorder confined to family context
+DISRUPTIVE,1411132,conduct disorder confined to the family context
+DISRUPTIVE,45538088,conduct disorder confined to the family context
+DISRUPTIVE,1411133,conduct disorder confined to the family context
+DISRUPTIVE,1568264,conduct disorders
+DISRUPTIVE,45600764,conduct disorders
+DISRUPTIVE,1411131,conduct disorders
+DISRUPTIVE,45533125,"conduct disorder, unspecified"
+DISRUPTIVE,35207271,"conduct disorder, unspecified"
+DISRUPTIVE,1411142,"conduct disorder, unspecified"
+DISRUPTIVE,1411141,"conduct disorder, unspecified"
+DISRUPTIVE,1411145,depressive conduct disorder
+DISRUPTIVE,45581477,depressive conduct disorder
+DISRUPTIVE,1411144,depressive conduct disorder
+DISRUPTIVE,44834613,"disorders of impulse control, not elsewhere classified"
+DISRUPTIVE,37200321,disruptive mood dysregulation disorder
+DISRUPTIVE,44835813,"disturbance of conduct, not elsewhere classified"
+DISRUPTIVE,1410971,habit and impulse disorders
+DISRUPTIVE,45576555,habit and impulse disorders
+DISRUPTIVE,1410983,"habit and impulse disorder, unspecified"
+DISRUPTIVE,1410984,"habit and impulse disorder, unspecified"
+DISRUPTIVE,45533118,"habit and impulse disorder, unspecified"
+DISRUPTIVE,1411126,hyperkinetic conduct disorder
+DISRUPTIVE,44829952,hyperkinetic conduct disorder
+DISRUPTIVE,45605518,hyperkinetic conduct disorder
+DISRUPTIVE,1411125,hyperkinetic conduct disorder
+DISRUPTIVE,44829946,"impulse control disorder, unspecified"
+DISRUPTIVE,1568251,impulse disorders
+DISRUPTIVE,35207224,"impulse disorder, unspecified"
+DISRUPTIVE,45605507,intermittent explosive disorder
+DISRUPTIVE,44828848,intermittent explosive disorder
+DISRUPTIVE,44835815,isolated explosive disorder
+DISRUPTIVE,44829947,kleptomania
+DISRUPTIVE,35207222,kleptomania
+DISRUPTIVE,1411149,"mixed disorder of conduct and emotions, unspecified"
+DISRUPTIVE,45586263,"mixed disorder of conduct and emotions, unspecified"
+DISRUPTIVE,1411148,"mixed disorder of conduct and emotions, unspecified"
+DISRUPTIVE,45591157,mixed disorders of conduct and emotions
+DISRUPTIVE,1411143,mixed disorders of conduct and emotions
+DISRUPTIVE,44819562,mixed disturbance of conduct and emotions
+DISRUPTIVE,1411139,oppositional defiant disorder
+DISRUPTIVE,1411138,oppositional defiant disorder
+DISRUPTIVE,35207269,oppositional defiant disorder
+DISRUPTIVE,45538089,oppositional defiant disorder
+DISRUPTIVE,44825315,oppositional defiant disorder
+DISRUPTIVE,44834614,other conduct disorder
+DISRUPTIVE,45571781,other conduct disorders
+DISRUPTIVE,1401613,other conduct disorders
+DISRUPTIVE,1411140,other conduct disorders
+DISRUPTIVE,35207270,other conduct disorders
+DISRUPTIVE,44829948,other disorders of impulse control
+DISRUPTIVE,1410981,other habit and impulse disorders
+DISRUPTIVE,1410980,other habit and impulse disorders
+DISRUPTIVE,45591151,other habit and impulse disorders
+DISRUPTIVE,45605508,other impulse disorders
+DISRUPTIVE,1568252,other impulse disorders
+DISRUPTIVE,45605519,other mixed disorders of conduct and emotions
+DISRUPTIVE,1411147,other mixed disorders of conduct and emotions
+DISRUPTIVE,1411146,other mixed disorders of conduct and emotions
+DISRUPTIVE,44829949,"other specified disturbances of conduct, not elsewhere classified"
+DISRUPTIVE,45562061,pathological fire-setting [pyromania]
+DISRUPTIVE,1410974,pathological fire-setting [pyromania]
+DISRUPTIVE,1410975,pathological fire-setting [pyromania]
+DISRUPTIVE,1410977,pathological stealing [kleptomania]
+DISRUPTIVE,45586251,pathological stealing [kleptomania]
+DISRUPTIVE,1410976,pathological stealing [kleptomania]
+DISRUPTIVE,35207221,pyromania
+DISRUPTIVE,44827675,pyromania
+DISRUPTIVE,45557221,socialized conduct disorder
+DISRUPTIVE,1411136,socialized conduct disorder
+DISRUPTIVE,1411137,socialized conduct disorder
+DISRUPTIVE,44822996,socialized conduct disorder
+DISRUPTIVE,44825314,"socialized conduct disorder, mild"
+DISRUPTIVE,44833423,"socialized conduct disorder, moderate"
+DISRUPTIVE,44835814,"socialized conduct disorder, severe"
+DISRUPTIVE,44825313,"socialized conduct disorder, unspecified"
+DISRUPTIVE,44833422,"undersocialized conduct disorder, aggressive type"
+DISRUPTIVE,44820741,"undersocialized conduct disorder, aggressive type, mild"
+DISRUPTIVE,44831112,"undersocialized conduct disorder, aggressive type, moderate"
+DISRUPTIVE,44820742,"undersocialized conduct disorder, aggressive type, severe"
+DISRUPTIVE,44827672,"undersocialized conduct disorder, aggressive type, unspecified"
+DISRUPTIVE,44827673,"undersocialized conduct disorder, unaggressive type"
+DISRUPTIVE,44836993,"undersocialized conduct disorder, unaggressive type, mild"
+DISRUPTIVE,44827674,"undersocialized conduct disorder, unaggressive type, moderate"
+DISRUPTIVE,44826527,"undersocialized conduct disorder, unaggressive type, severe"
+DISRUPTIVE,44836992,"undersocialized conduct disorder, unaggressive type, unspecified"
+DISRUPTIVE,45542871,unsocialized conduct disorder
+DISRUPTIVE,1411134,unsocialized conduct disorder
+DISRUPTIVE,1411135,unsocialized conduct disorder
+DISRUPTIVE,44821834,unspecified disturbance of conduct
+SUBSTANCE,45586247,abuse of antacids
+SUBSTANCE,45547716,abuse of herbal or folk remedies
+SUBSTANCE,45571768,abuse of laxatives
+SUBSTANCE,45576553,abuse of non-dependence-producing substances
+SUBSTANCE,1410929,abuse of non-dependence-producing substances
+SUBSTANCE,1410930,abuse of non-dependence-producing substances
+SUBSTANCE,1568248,abuse of non-psychoactive substances
+SUBSTANCE,45552499,abuse of other non-psychoactive substances
+SUBSTANCE,45542857,abuse of steroids or hormones
+SUBSTANCE,45552498,abuse of vitamins
+SUBSTANCE,1568096,alcohol abuse
+SUBSTANCE,44820730,alcohol abuse
+SUBSTANCE,44826518,"alcohol abuse, continuous"
+SUBSTANCE,44829936,"alcohol abuse, episodic"
+SUBSTANCE,1326497,"alcohol abuse, in remission"
+SUBSTANCE,44831103,"alcohol abuse, in remission"
+SUBSTANCE,45595845,"alcohol abuse, uncomplicated"
+SUBSTANCE,44828841,"alcohol abuse, unspecified"
+SUBSTANCE,45600693,alcohol abuse with alcohol-induced anxiety disorder
+SUBSTANCE,45581404,alcohol abuse with alcohol-induced mood disorder
+SUBSTANCE,1568098,alcohol abuse with alcohol-induced psychotic disorder
+SUBSTANCE,45571707,"alcohol abuse with alcohol-induced psychotic disorder, unspecified"
+SUBSTANCE,45600692,alcohol abuse with alcohol-induced psychotic disorder with delusions
+SUBSTANCE,45595846,alcohol abuse with alcohol-induced psychotic disorder with hallucinations
+SUBSTANCE,45600694,alcohol abuse with alcohol-induced sexual dysfunction
+SUBSTANCE,45538006,alcohol abuse with alcohol-induced sleep disorder
+SUBSTANCE,1568097,alcohol abuse with intoxication
+SUBSTANCE,45576493,alcohol abuse with intoxication delirium
+SUBSTANCE,45538005,"alcohol abuse with intoxication, uncomplicated"
+SUBSTANCE,45557154,"alcohol abuse with intoxication, unspecified"
+SUBSTANCE,45576494,alcohol abuse with other alcohol-induced disorder
+SUBSTANCE,1568099,alcohol abuse with other alcohol-induced disorders
+SUBSTANCE,45576495,alcohol abuse with unspecified alcohol-induced disorder
+SUBSTANCE,1568100,alcohol dependence
+SUBSTANCE,45581405,"alcohol dependence, in remission"
+SUBSTANCE,44832244,alcohol dependence syndrome
+SUBSTANCE,45586187,"alcohol dependence, uncomplicated"
+SUBSTANCE,45566777,alcohol dependence with alcohol-induced anxiety disorder
+SUBSTANCE,45562002,alcohol dependence with alcohol-induced mood disorder
+SUBSTANCE,45595847,alcohol dependence with alcohol-induced persisting amnestic disorder
+SUBSTANCE,45566776,alcohol dependence with alcohol-induced persisting dementia
+SUBSTANCE,45600695,alcohol dependence with alcohol-induced psychotic disorder
+SUBSTANCE,45571708,"alcohol dependence with alcohol-induced psychotic disorder, unspecified"
+SUBSTANCE,45562003,alcohol dependence with alcohol-induced psychotic disorder with delusions
+SUBSTANCE,45557155,alcohol dependence with alcohol-induced psychotic disorder with hallucinations
+SUBSTANCE,45591083,alcohol dependence with alcohol-induced sexual dysfunction
+SUBSTANCE,45600696,alcohol dependence with alcohol-induced sleep disorder
+SUBSTANCE,45591082,alcohol dependence with intoxication
+SUBSTANCE,45586189,alcohol dependence with intoxication delirium
+SUBSTANCE,45586188,"alcohol dependence with intoxication, uncomplicated"
+SUBSTANCE,45538007,"alcohol dependence with intoxication, unspecified"
+SUBSTANCE,45571709,alcohol dependence with other alcohol-induced disorder
+SUBSTANCE,1568101,alcohol dependence with other alcohol-induced disorders
+SUBSTANCE,45591084,alcohol dependence with unspecified alcohol-induced disorder
+SUBSTANCE,45605452,alcohol dependence with withdrawal
+SUBSTANCE,45552431,alcohol dependence with withdrawal delirium
+SUBSTANCE,45586190,"alcohol dependence with withdrawal, uncomplicated"
+SUBSTANCE,45533065,"alcohol dependence with withdrawal, unspecified"
+SUBSTANCE,45566775,alcohol dependence with withdrawal with perceptual disturbance
+SUBSTANCE,1410315,alcoholic delirium (machine translation)
+SUBSTANCE,1410328,alcoholic dementia (machine translation)
+SUBSTANCE,1410322,alcoholic manic state (machine translation)
+SUBSTANCE,44835774,alcohol-induced mental disorders
+SUBSTANCE,44824107,alcohol-induced persisting amnestic disorder
+SUBSTANCE,44819535,alcohol-induced persisting dementia
+SUBSTANCE,44824108,alcohol-induced psychotic disorder with delusions
+SUBSTANCE,44832220,alcohol-induced psychotic disorder with hallucinations
+SUBSTANCE,44835775,alcohol induced sleep disorders
+SUBSTANCE,1410321,alcoholism and depression (machine translation)
+SUBSTANCE,45592313,"alcohol use complicating pregnancy, first trimester"
+SUBSTANCE,45563197,"alcohol use complicating pregnancy, second trimester"
+SUBSTANCE,45548851,"alcohol use complicating pregnancy, third trimester"
+SUBSTANCE,45582593,"alcohol use complicating pregnancy, unspecified trimester"
+SUBSTANCE,45566781,"alcohol use, unspecified with alcohol-induced anxiety disorder"
+SUBSTANCE,45542791,"alcohol use, unspecified with alcohol-induced mood disorder"
+SUBSTANCE,45566780,"alcohol use, unspecified with alcohol-induced persisting amnestic disorder"
+SUBSTANCE,45547675,"alcohol use, unspecified with alcohol-induced persisting dementia"
+SUBSTANCE,1568104,"alcohol use, unspecified with alcohol-induced psychotic disorder"
+SUBSTANCE,45586192,"alcohol use, unspecified with alcohol-induced psychotic disorder, unspecified"
+SUBSTANCE,45566779,"alcohol use, unspecified with alcohol-induced psychotic disorder with delusions"
+SUBSTANCE,45591087,"alcohol use, unspecified with alcohol-induced psychotic disorder with hallucinations"
+SUBSTANCE,45562005,"alcohol use, unspecified with alcohol-induced sleep disorder"
+SUBSTANCE,45566778,"alcohol use, unspecified with intoxication delirium"
+SUBSTANCE,44829916,alcohol withdrawal
+SUBSTANCE,44826487,alcohol withdrawal delirium
+SUBSTANCE,1410437,amphetamines toxic psychosis (machine translation)
+SUBSTANCE,1410376,analgesic drugs addiction (machine translation)
+SUBSTANCE,44819557,antidepressant type abuse
+SUBSTANCE,44832250,"antidepressant type abuse, continuous"
+SUBSTANCE,44825308,"antidepressant type abuse, episodic"
+SUBSTANCE,44829942,"antidepressant type abuse, in remission"
+SUBSTANCE,44836985,"antidepressant type abuse, unspecified"
+SUBSTANCE,45533069,cannabis abuse with cannabis-induced anxiety disorder
+SUBSTANCE,45542799,cannabis abuse with intoxication delirium
+SUBSTANCE,45571720,cannabis abuse with other cannabis-induced disorder
+SUBSTANCE,1568121,cannabis abuse with other cannabis-induced disorder
+SUBSTANCE,1568120,cannabis abuse with psychotic disorder
+SUBSTANCE,45581414,"cannabis abuse with psychotic disorder, unspecified"
+SUBSTANCE,45591096,cannabis abuse with psychotic disorder with delusions
+SUBSTANCE,45581413,cannabis abuse with psychotic disorder with hallucinations
+SUBSTANCE,45552435,cannabis abuse with unspecified cannabis-induced disorder
+SUBSTANCE,45595860,cannabis dependence with cannabis-induced anxiety disorder
+SUBSTANCE,45557164,cannabis dependence with intoxication delirium
+SUBSTANCE,45576502,cannabis dependence with other cannabis-induced disorder
+SUBSTANCE,1568123,cannabis dependence with other cannabis-induced disorder
+SUBSTANCE,45581416,cannabis dependence with psychotic disorder
+SUBSTANCE,45538014,"cannabis dependence with psychotic disorder, unspecified"
+SUBSTANCE,45571721,cannabis dependence with psychotic disorder with delusions
+SUBSTANCE,45538013,cannabis dependence with psychotic disorder with hallucinations
+SUBSTANCE,45557165,cannabis dependence with unspecified cannabis-induced disorder
+SUBSTANCE,1568117,cannabis related disorders
+SUBSTANCE,1568124,"cannabis use, unspecified"
+SUBSTANCE,45547678,"cannabis use, unspecified, uncomplicated"
+SUBSTANCE,45581417,"cannabis use, unspecified with anxiety disorder"
+SUBSTANCE,45595862,"cannabis use, unspecified with intoxication delirium"
+SUBSTANCE,1568127,"cannabis use, unspecified with other cannabis-induced disorder"
+SUBSTANCE,45605465,"cannabis use, unspecified with other cannabis-induced disorder"
+SUBSTANCE,1568126,"cannabis use, unspecified with psychotic disorder"
+SUBSTANCE,45566791,"cannabis use, unspecified with psychotic disorder, unspecified"
+SUBSTANCE,45576504,"cannabis use, unspecified with psychotic disorder with delusions"
+SUBSTANCE,45533071,"cannabis use, unspecified with psychotic disorder with hallucinations"
+SUBSTANCE,45591101,"cannabis use, unspecified with unspecified cannabis-induced disorder"
+SUBSTANCE,1410325,chronic alcoholic delirium (machine translation)
+SUBSTANCE,1410320,chronic alcoholic hallucinations (machine translation)
+SUBSTANCE,1410319,chronic alcoholic paranoia (machine translation)
+SUBSTANCE,1410310,chronic alcoholism (machine translation)
+SUBSTANCE,1410318,chronic alcoholism schizophreniform psychosis (machine translation)
+SUBSTANCE,45595872,cocaine abuse with cocaine-induced anxiety disorder
+SUBSTANCE,45538030,cocaine abuse with cocaine-induced mood disorder
+SUBSTANCE,1568144,cocaine abuse with cocaine-induced psychotic disorder
+SUBSTANCE,45581424,"cocaine abuse with cocaine-induced psychotic disorder, unspecified"
+SUBSTANCE,45533074,cocaine abuse with cocaine-induced psychotic disorder with delusions
+SUBSTANCE,45595871,cocaine abuse with cocaine-induced psychotic disorder with hallucinations
+SUBSTANCE,1568143,cocaine abuse with intoxication
+SUBSTANCE,45557169,"cocaine abuse with intoxication, uncomplicated"
+SUBSTANCE,45586207,"cocaine abuse with intoxication, unspecified"
+SUBSTANCE,45605467,cocaine abuse with intoxication with delirium
+SUBSTANCE,45538029,cocaine abuse with intoxication with perceptual disturbance
+SUBSTANCE,45571726,cocaine abuse with other cocaine-induced disorder
+SUBSTANCE,1568145,cocaine abuse with other cocaine-induced disorder
+SUBSTANCE,45552443,cocaine abuse with unspecified cocaine-induced disorder
+SUBSTANCE,45538033,cocaine dependence with cocaine-induced anxiety disorder
+SUBSTANCE,45571727,cocaine dependence with cocaine-induced mood disorder
+SUBSTANCE,45571728,cocaine dependence with cocaine-induced psychotic disorder
+SUBSTANCE,45538032,"cocaine dependence with cocaine-induced psychotic disorder, unspecified"
+SUBSTANCE,45605468,cocaine dependence with cocaine-induced psychotic disorder with delusions
+SUBSTANCE,45600708,cocaine dependence with cocaine-induced psychotic disorder with hallucinations
+SUBSTANCE,45562017,cocaine dependence with intoxication
+SUBSTANCE,45557171,cocaine dependence with intoxication delirium
+SUBSTANCE,45538031,"cocaine dependence with intoxication, uncomplicated"
+SUBSTANCE,45557172,"cocaine dependence with intoxication, unspecified"
+SUBSTANCE,45591104,cocaine dependence with intoxication with perceptual disturbance
+SUBSTANCE,45605469,cocaine dependence with other cocaine-induced disorder
+SUBSTANCE,1568147,cocaine dependence with other cocaine-induced disorder
+SUBSTANCE,45566800,cocaine dependence with unspecified cocaine-induced disorder
+SUBSTANCE,45557173,cocaine dependence with withdrawal
+SUBSTANCE,1568141,cocaine related disorders
+SUBSTANCE,1568148,"cocaine use, unspecified"
+SUBSTANCE,45557174,"cocaine use, unspecified, uncomplicated"
+SUBSTANCE,45586208,"cocaine use, unspecified with cocaine-induced anxiety disorder"
+SUBSTANCE,45542808,"cocaine use, unspecified with cocaine-induced mood disorder"
+SUBSTANCE,1568150,"cocaine use, unspecified with cocaine-induced psychotic disorder"
+SUBSTANCE,45557176,"cocaine use, unspecified with cocaine-induced psychotic disorder, unspecified"
+SUBSTANCE,45533076,"cocaine use, unspecified with cocaine-induced psychotic disorder with delusions"
+SUBSTANCE,45533077,"cocaine use, unspecified with cocaine-induced psychotic disorder with hallucinations"
+SUBSTANCE,1568149,"cocaine use, unspecified with intoxication"
+SUBSTANCE,45538034,"cocaine use, unspecified with intoxication delirium"
+SUBSTANCE,45576510,"cocaine use, unspecified with intoxication, uncomplicated"
+SUBSTANCE,45557175,"cocaine use, unspecified with intoxication, unspecified"
+SUBSTANCE,45538035,"cocaine use, unspecified with intoxication with perceptual disturbance"
+SUBSTANCE,45552444,"cocaine use, unspecified with other cocaine-induced disorder"
+SUBSTANCE,1568151,"cocaine use, unspecified with other specified cocaine-induced disorder"
+SUBSTANCE,45576512,"cocaine use, unspecified with unspecified cocaine-induced disorder"
+SUBSTANCE,44826488,drug-induced delirium
+SUBSTANCE,44831081,drug-induced mental disorders
+SUBSTANCE,44834582,drug-induced mood disorder
+SUBSTANCE,44831082,drug-induced persisting amnestic disorder
+SUBSTANCE,44826489,drug-induced persisting dementia
+SUBSTANCE,44825287,drug-induced psychotic disorders
+SUBSTANCE,44827642,drug-induced psychotic disorder with delusions
+SUBSTANCE,44832221,drug-induced psychotic disorder with hallucinations
+SUBSTANCE,45538100,drug induced tics
+SUBSTANCE,45566808,hallucinogen abuse with hallucinogen-induced anxiety disorder
+SUBSTANCE,45605474,hallucinogen abuse with hallucinogen-induced mood disorder
+SUBSTANCE,1568167,hallucinogen abuse with hallucinogen-induced psychotic disorder
+SUBSTANCE,45552449,"hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified"
+SUBSTANCE,45562020,hallucinogen abuse with hallucinogen-induced psychotic disorder with delusions
+SUBSTANCE,45595879,hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations
+SUBSTANCE,45600715,hallucinogen abuse with hallucinogen persisting perception disorder (flashbacks)
+SUBSTANCE,1568166,hallucinogen abuse with intoxication
+SUBSTANCE,45538042,"hallucinogen abuse with intoxication, uncomplicated"
+SUBSTANCE,45552448,"hallucinogen abuse with intoxication, unspecified"
+SUBSTANCE,45533080,hallucinogen abuse with intoxication with delirium
+SUBSTANCE,45600714,hallucinogen abuse with intoxication with perceptual disturbance
+SUBSTANCE,1568168,hallucinogen abuse with other hallucinogen-induced disorder
+SUBSTANCE,45552450,hallucinogen abuse with other hallucinogen-induced disorder
+SUBSTANCE,45576518,hallucinogen abuse with unspecified hallucinogen-induced disorder
+SUBSTANCE,45571736,hallucinogen dependence with hallucinogen-induced anxiety disorder
+SUBSTANCE,45581432,hallucinogen dependence with hallucinogen-induced mood disorder
+SUBSTANCE,1568171,hallucinogen dependence with hallucinogen-induced psychotic disorder
+SUBSTANCE,45571735,"hallucinogen dependence with hallucinogen-induced psychotic disorder, unspecified"
+SUBSTANCE,45591113,hallucinogen dependence with hallucinogen-induced psychotic disorder with delusions
+SUBSTANCE,45562021,hallucinogen dependence with hallucinogen-induced psychotic disorder with hallucinations
+SUBSTANCE,45595880,hallucinogen dependence with hallucinogen persisting perception disorder (flashbacks)
+SUBSTANCE,1568170,hallucinogen dependence with intoxication
+SUBSTANCE,45542816,"hallucinogen dependence with intoxication, uncomplicated"
+SUBSTANCE,45586216,"hallucinogen dependence with intoxication, unspecified"
+SUBSTANCE,45533081,hallucinogen dependence with intoxication with delirium
+SUBSTANCE,1568172,hallucinogen dependence with other hallucinogen-induced disorder
+SUBSTANCE,45552451,hallucinogen dependence with other hallucinogen-induced disorder
+SUBSTANCE,45538043,hallucinogen dependence with unspecified hallucinogen-induced disorder
+SUBSTANCE,1568164,hallucinogen related disorders
+SUBSTANCE,1568173,"hallucinogen use, unspecified"
+SUBSTANCE,45605475,"hallucinogen use, unspecified, uncomplicated"
+SUBSTANCE,45552452,"hallucinogen use, unspecified with hallucinogen-induced anxiety disorder"
+SUBSTANCE,45562024,"hallucinogen use, unspecified with hallucinogen-induced mood disorder"
+SUBSTANCE,1568175,"hallucinogen use, unspecified with hallucinogen-induced psychotic disorder"
+SUBSTANCE,45571738,"hallucinogen use, unspecified with hallucinogen-induced psychotic disorder, unspecified"
+SUBSTANCE,45542819,"hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions"
+SUBSTANCE,45542820,"hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with hallucinations"
+SUBSTANCE,45581434,"hallucinogen use, unspecified with hallucinogen persisting perception disorder (flashbacks)"
+SUBSTANCE,1568174,"hallucinogen use, unspecified with intoxication"
+SUBSTANCE,45566809,"hallucinogen use, unspecified with intoxication, uncomplicated"
+SUBSTANCE,45542818,"hallucinogen use, unspecified with intoxication, unspecified"
+SUBSTANCE,45586217,"hallucinogen use, unspecified with intoxication with delirium"
+SUBSTANCE,45538045,"hallucinogen use, unspecified with other hallucinogen-induced disorder"
+SUBSTANCE,1568176,"hallucinogen use, unspecified with other specified hallucinogen-induced disorder"
+SUBSTANCE,45591114,"hallucinogen use, unspecified with unspecified hallucinogen-induced disorder"
+SUBSTANCE,1410387,hypnotics addiction (machine translation)
+SUBSTANCE,44836955,idiosyncratic alcohol intoxication
+SUBSTANCE,45566813,inhalant abuse with inhalant-induced anxiety disorder
+SUBSTANCE,45566812,inhalant abuse with inhalant-induced dementia
+SUBSTANCE,45595887,inhalant abuse with inhalant-induced mood disorder
+SUBSTANCE,1568184,inhalant abuse with inhalant-induced psychotic disorder
+SUBSTANCE,45547683,"inhalant abuse with inhalant-induced psychotic disorder, unspecified"
+SUBSTANCE,45605480,inhalant abuse with inhalant-induced psychotic disorder with delusions
+SUBSTANCE,45581437,inhalant abuse with inhalant-induced psychotic disorder with hallucinations
+SUBSTANCE,45538048,inhalant abuse with intoxication delirium
+SUBSTANCE,45557183,inhalant abuse with other inhalant-induced disorder
+SUBSTANCE,1568185,inhalant abuse with other inhalant-induced disorders
+SUBSTANCE,45595888,inhalant abuse with unspecified inhalant-induced disorder
+SUBSTANCE,45586222,inhalant dependence with inhalant-induced anxiety disorder
+SUBSTANCE,45547684,inhalant dependence with inhalant-induced dementia
+SUBSTANCE,45562028,inhalant dependence with inhalant-induced mood disorder
+SUBSTANCE,1568188,inhalant dependence with inhalant-induced psychotic disorder
+SUBSTANCE,45591120,"inhalant dependence with inhalant-induced psychotic disorder, unspecified"
+SUBSTANCE,45533087,inhalant dependence with inhalant-induced psychotic disorder with delusions
+SUBSTANCE,45542827,inhalant dependence with inhalant-induced psychotic disorder with hallucinations
+SUBSTANCE,45576524,inhalant dependence with intoxication delirium
+SUBSTANCE,45557185,inhalant dependence with other inhalant-induced disorder
+SUBSTANCE,1568189,inhalant dependence with other inhalant-induced disorders
+SUBSTANCE,45600721,inhalant dependence with unspecified inhalant-induced disorder
+SUBSTANCE,1568181,inhalant related disorders
+SUBSTANCE,1568190,"inhalant use, unspecified"
+SUBSTANCE,45566815,"inhalant use, unspecified, uncomplicated"
+SUBSTANCE,45595889,"inhalant use, unspecified with inhalant-induced anxiety disorder"
+SUBSTANCE,45557187,"inhalant use, unspecified with inhalant-induced mood disorder"
+SUBSTANCE,45552458,"inhalant use, unspecified with inhalant-induced persisting dementia"
+SUBSTANCE,1568192,"inhalant use, unspecified with inhalant-induced psychotic disorder"
+SUBSTANCE,45605481,"inhalant use, unspecified with inhalant-induced psychotic disorder, unspecified"
+SUBSTANCE,45552457,"inhalant use, unspecified with inhalant-induced psychotic disorder with delusions"
+SUBSTANCE,45547685,"inhalant use, unspecified with inhalant-induced psychotic disorder with hallucinations"
+SUBSTANCE,45600724,"inhalant use, unspecified with intoxication with delirium"
+SUBSTANCE,45547686,"inhalant use, unspecified with other inhalant-induced disorder"
+SUBSTANCE,1568193,"inhalant use, unspecified with other inhalant-induced disorders"
+SUBSTANCE,45586224,"inhalant use, unspecified with unspecified inhalant-induced disorder"
+SUBSTANCE,1410982,internet addiction among adolescents (machine translation)
+SUBSTANCE,1410510,mental and behavioural disorders due to multiple drug use and use of other psychoactive substances
+SUBSTANCE,45562029,mental and behavioural disorders due to multiple drug use and use of other psychoactive substances
+SUBSTANCE,45552462,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, amnesic syndrome"
+SUBSTANCE,1410524,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, amnesic syndrome"
+SUBSTANCE,1410525,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, amnesic syndrome"
+SUBSTANCE,1410515,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, dependence syndrome"
+SUBSTANCE,1410516,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, dependence syndrome"
+SUBSTANCE,45557189,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, dependence syndrome"
+SUBSTANCE,1410528,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, other mental and behavioural disorders"
+SUBSTANCE,1410529,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, other mental and behavioural disorders"
+SUBSTANCE,45566824,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, other mental and behavioural disorders"
+SUBSTANCE,1410523,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, psychotic disorder"
+SUBSTANCE,1410522,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, psychotic disorder"
+SUBSTANCE,45605484,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, psychotic disorder"
+SUBSTANCE,1410527,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, residual and late-onset psychotic disorder"
+SUBSTANCE,1410526,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, residual and late-onset psychotic disorder"
+SUBSTANCE,45562035,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, residual and late-onset psychotic disorder"
+SUBSTANCE,1410530,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, unspecified mental and behavioural disorder"
+SUBSTANCE,1410531,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, unspecified mental and behavioural disorder"
+SUBSTANCE,45600732,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, unspecified mental and behavioural disorder"
+SUBSTANCE,1410519,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state"
+SUBSTANCE,45600731,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state"
+SUBSTANCE,1410518,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state"
+SUBSTANCE,1410521,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state with delirium"
+SUBSTANCE,1410520,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state with delirium"
+SUBSTANCE,45552461,"mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, withdrawal state with delirium"
+SUBSTANCE,45581401,mental and behavioural disorders due to use of alcohol
+SUBSTANCE,1410300,mental and behavioural disorders due to use of alcohol
+SUBSTANCE,1410324,"mental and behavioural disorders due to use of alcohol, amnesic syndrome"
+SUBSTANCE,45547673,"mental and behavioural disorders due to use of alcohol, amnesic syndrome"
+SUBSTANCE,1410323,"mental and behavioural disorders due to use of alcohol, amnesic syndrome"
+SUBSTANCE,1410308,"mental and behavioural disorders due to use of alcohol, dependence syndrome"
+SUBSTANCE,45576496,"mental and behavioural disorders due to use of alcohol, dependence syndrome"
+SUBSTANCE,1410309,"mental and behavioural disorders due to use of alcohol, dependence syndrome"
+SUBSTANCE,45595844,"mental and behavioural disorders due to use of alcohol, harmful use"
+SUBSTANCE,1410306,"mental and behavioural disorders due to use of alcohol, harmful use"
+SUBSTANCE,1410307,"mental and behavioural disorders due to use of alcohol, harmful use"
+SUBSTANCE,1410329,"mental and behavioural disorders due to use of alcohol, other mental and behavioural disorders"
+SUBSTANCE,1410330,"mental and behavioural disorders due to use of alcohol, other mental and behavioural disorders"
+SUBSTANCE,45581407,"mental and behavioural disorders due to use of alcohol, other mental and behavioural disorders"
+SUBSTANCE,45755373,"mental and behavioural disorders due to use of alcohol, psychotic disorder"
+SUBSTANCE,1410316,"mental and behavioural disorders due to use of alcohol, psychotic disorder"
+SUBSTANCE,1410317,"mental and behavioural disorders due to use of alcohol, psychotic disorder"
+SUBSTANCE,1410327,"mental and behavioural disorders due to use of alcohol, residual and late-onset psychotic disorder"
+SUBSTANCE,1410326,"mental and behavioural disorders due to use of alcohol, residual and late-onset psychotic disorder"
+SUBSTANCE,45547674,"mental and behavioural disorders due to use of alcohol, residual and late-onset psychotic disorder"
+SUBSTANCE,1410331,"mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"
+SUBSTANCE,1410332,"mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"
+SUBSTANCE,45557158,"mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder"
+SUBSTANCE,45542789,"mental and behavioural disorders due to use of alcohol, withdrawal state"
+SUBSTANCE,1410312,"mental and behavioural disorders due to use of alcohol, withdrawal state"
+SUBSTANCE,1410311,"mental and behavioural disorders due to use of alcohol, withdrawal state"
+SUBSTANCE,1410313,"mental and behavioural disorders due to use of alcohol, withdrawal state with delirium"
+SUBSTANCE,45586191,"mental and behavioural disorders due to use of alcohol, withdrawal state with delirium"
+SUBSTANCE,1410314,"mental and behavioural disorders due to use of alcohol, withdrawal state with delirium"
+SUBSTANCE,45571719,mental and behavioural disorders due to use of cannabinoids
+SUBSTANCE,1410358,mental and behavioural disorders due to use of cannabinoids
+SUBSTANCE,1410371,"mental and behavioural disorders due to use of cannabinoids, amnesic syndrome"
+SUBSTANCE,45586202,"mental and behavioural disorders due to use of cannabinoids, amnesic syndrome"
+SUBSTANCE,1410372,"mental and behavioural disorders due to use of cannabinoids, amnesic syndrome"
+SUBSTANCE,1410377,"mental and behavioural disorders due to use of cannabinoids, other mental and behavioural disorders"
+SUBSTANCE,45755374,"mental and behavioural disorders due to use of cannabinoids, other mental and behavioural disorders"
+SUBSTANCE,1410375,"mental and behavioural disorders due to use of cannabinoids, other mental and behavioural disorders"
+SUBSTANCE,1410369,"mental and behavioural disorders due to use of cannabinoids, psychotic disorder"
+SUBSTANCE,1410370,"mental and behavioural disorders due to use of cannabinoids, psychotic disorder"
+SUBSTANCE,45566790,"mental and behavioural disorders due to use of cannabinoids, psychotic disorder"
+SUBSTANCE,45538016,"mental and behavioural disorders due to use of cannabinoids, residual and late-onset psychotic disorder"
+SUBSTANCE,1410374,"mental and behavioural disorders due to use of cannabinoids, residual and late-onset psychotic disorder"
+SUBSTANCE,1410373,"mental and behavioural disorders due to use of cannabinoids, residual and late-onset psychotic disorder"
+SUBSTANCE,45538017,"mental and behavioural disorders due to use of cannabinoids, unspecified mental and behavioural disorder"
+SUBSTANCE,1410378,"mental and behavioural disorders due to use of cannabinoids, unspecified mental and behavioural disorder"
+SUBSTANCE,1410379,"mental and behavioural disorders due to use of cannabinoids, unspecified mental and behavioural disorder"
+SUBSTANCE,45600702,"mental and behavioural disorders due to use of cannabinoids, withdrawal state with delirium"
+SUBSTANCE,1410367,"mental and behavioural disorders due to use of cannabinoids, withdrawal state with delirium"
+SUBSTANCE,1410368,"mental and behavioural disorders due to use of cannabinoids, withdrawal state with delirium"
+SUBSTANCE,1410402,mental and behavioural disorders due to use of cocaine
+SUBSTANCE,45595869,mental and behavioural disorders due to use of cocaine
+SUBSTANCE,1410403,"mental and behavioural disorders due to use of cocaine, acute intoxication"
+SUBSTANCE,1410404,"mental and behavioural disorders due to use of cocaine, acute intoxication"
+SUBSTANCE,45755379,"mental and behavioural disorders due to use of cocaine, acute intoxication"
+SUBSTANCE,1410416,"mental and behavioural disorders due to use of cocaine, amnesic syndrome"
+SUBSTANCE,1410415,"mental and behavioural disorders due to use of cocaine, amnesic syndrome"
+SUBSTANCE,45566801,"mental and behavioural disorders due to use of cocaine, amnesic syndrome"
+SUBSTANCE,1410419,"mental and behavioural disorders due to use of cocaine, other mental and behavioural disorders"
+SUBSTANCE,1410420,"mental and behavioural disorders due to use of cocaine, other mental and behavioural disorders"
+SUBSTANCE,45581427,"mental and behavioural disorders due to use of cocaine, other mental and behavioural disorders"
+SUBSTANCE,1410414,"mental and behavioural disorders due to use of cocaine, psychotic disorder"
+SUBSTANCE,1410413,"mental and behavioural disorders due to use of cocaine, psychotic disorder"
+SUBSTANCE,45591105,"mental and behavioural disorders due to use of cocaine, psychotic disorder"
+SUBSTANCE,45581426,"mental and behavioural disorders due to use of cocaine, residual and late-onset psychotic disorder"
+SUBSTANCE,1410417,"mental and behavioural disorders due to use of cocaine, residual and late-onset psychotic disorder"
+SUBSTANCE,1410418,"mental and behavioural disorders due to use of cocaine, residual and late-onset psychotic disorder"
+SUBSTANCE,45571729,"mental and behavioural disorders due to use of cocaine, unspecified mental and behavioural disorder"
+SUBSTANCE,1410421,"mental and behavioural disorders due to use of cocaine, unspecified mental and behavioural disorder"
+SUBSTANCE,1410422,"mental and behavioural disorders due to use of cocaine, unspecified mental and behavioural disorder"
+SUBSTANCE,45755380,"mental and behavioural disorders due to use of cocaine, withdrawal state"
+SUBSTANCE,1410410,"mental and behavioural disorders due to use of cocaine, withdrawal state"
+SUBSTANCE,1410409,"mental and behavioural disorders due to use of cocaine, withdrawal state"
+SUBSTANCE,1410412,"mental and behavioural disorders due to use of cocaine, withdrawal state with delirium"
+SUBSTANCE,45533075,"mental and behavioural disorders due to use of cocaine, withdrawal state with delirium"
+SUBSTANCE,1410411,"mental and behavioural disorders due to use of cocaine, withdrawal state with delirium"
+SUBSTANCE,1410446,mental and behavioural disorders due to use of hallucinogens
+SUBSTANCE,45586215,mental and behavioural disorders due to use of hallucinogens
+SUBSTANCE,1410447,"mental and behavioural disorders due to use of hallucinogens, acute intoxication"
+SUBSTANCE,1410448,"mental and behavioural disorders due to use of hallucinogens, acute intoxication"
+SUBSTANCE,45566807,"mental and behavioural disorders due to use of hallucinogens, acute intoxication"
+SUBSTANCE,1410460,"mental and behavioural disorders due to use of hallucinogens, amnesic syndrome"
+SUBSTANCE,1410459,"mental and behavioural disorders due to use of hallucinogens, amnesic syndrome"
+SUBSTANCE,45571737,"mental and behavioural disorders due to use of hallucinogens, amnesic syndrome"
+SUBSTANCE,1410463,"mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders"
+SUBSTANCE,45542817,"mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders"
+SUBSTANCE,1410464,"mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders"
+SUBSTANCE,1410458,"mental and behavioural disorders due to use of hallucinogens, psychotic disorder"
+SUBSTANCE,45755384,"mental and behavioural disorders due to use of hallucinogens, psychotic disorder"
+SUBSTANCE,1410457,"mental and behavioural disorders due to use of hallucinogens, psychotic disorder"
+SUBSTANCE,45595883,"mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder"
+SUBSTANCE,1410461,"mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder"
+SUBSTANCE,1410462,"mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder"
+SUBSTANCE,1410466,"mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder"
+SUBSTANCE,45581433,"mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder"
+SUBSTANCE,1410465,"mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder"
+SUBSTANCE,45533082,"mental and behavioural disorders due to use of hallucinogens, withdrawal state"
+SUBSTANCE,1410453,"mental and behavioural disorders due to use of hallucinogens, withdrawal state"
+SUBSTANCE,1410454,"mental and behavioural disorders due to use of hallucinogens, withdrawal state"
+SUBSTANCE,1410455,"mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium"
+SUBSTANCE,45533083,"mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium"
+SUBSTANCE,1410456,"mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium"
+SUBSTANCE,45595853,mental and behavioural disorders due to use of opioids
+SUBSTANCE,1410333,mental and behavioural disorders due to use of opioids
+SUBSTANCE,45600700,"mental and behavioural disorders due to use of opioids, amnesic syndrome"
+SUBSTANCE,1410350,"mental and behavioural disorders due to use of opioids, amnesic syndrome"
+SUBSTANCE,1410351,"mental and behavioural disorders due to use of opioids, amnesic syndrome"
+SUBSTANCE,1410354,"mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"
+SUBSTANCE,45591094,"mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"
+SUBSTANCE,1410355,"mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"
+SUBSTANCE,1410348,"mental and behavioural disorders due to use of opioids, psychotic disorder"
+SUBSTANCE,1410349,"mental and behavioural disorders due to use of opioids, psychotic disorder"
+SUBSTANCE,45571716,"mental and behavioural disorders due to use of opioids, psychotic disorder"
+SUBSTANCE,1410352,"mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"
+SUBSTANCE,1410353,"mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"
+SUBSTANCE,45600701,"mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"
+SUBSTANCE,1410357,"mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"
+SUBSTANCE,45571718,"mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"
+SUBSTANCE,1410356,"mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"
+SUBSTANCE,1410344,"mental and behavioural disorders due to use of opioids, withdrawal state"
+SUBSTANCE,45571715,"mental and behavioural disorders due to use of opioids, withdrawal state"
+SUBSTANCE,1410345,"mental and behavioural disorders due to use of opioids, withdrawal state"
+SUBSTANCE,45586194,"mental and behavioural disorders due to use of opioids, withdrawal state with delirium"
+SUBSTANCE,1410347,"mental and behavioural disorders due to use of opioids, withdrawal state with delirium"
+SUBSTANCE,1410346,"mental and behavioural disorders due to use of opioids, withdrawal state with delirium"
+SUBSTANCE,1410423,"mental and behavioural disorders due to use of other stimulants, including caffeine"
+SUBSTANCE,45600710,"mental and behavioural disorders due to use of other stimulants, including caffeine"
+SUBSTANCE,45576517,"mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome"
+SUBSTANCE,1410439,"mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome"
+SUBSTANCE,1410438,"mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome"
+SUBSTANCE,1410443,"mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders"
+SUBSTANCE,45586211,"mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders"
+SUBSTANCE,1410442,"mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders"
+SUBSTANCE,1410436,"mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder"
+SUBSTANCE,45755382,"mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder"
+SUBSTANCE,1410435,"mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder"
+SUBSTANCE,1410441,"mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder"
+SUBSTANCE,45755383,"mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder"
+SUBSTANCE,1410440,"mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder"
+SUBSTANCE,1410445,"mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder"
+SUBSTANCE,1410444,"mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder"
+SUBSTANCE,45566803,"mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder"
+SUBSTANCE,45586209,"mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium"
+SUBSTANCE,1410433,"mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium"
+SUBSTANCE,1410434,"mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium"
+SUBSTANCE,1410380,mental and behavioural disorders due to use of sedatives or hypnotics
+SUBSTANCE,45538018,mental and behavioural disorders due to use of sedatives or hypnotics
+SUBSTANCE,1410382,"mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication"
+SUBSTANCE,1410381,"mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication"
+SUBSTANCE,45571723,"mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication"
+SUBSTANCE,45755377,"mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome"
+SUBSTANCE,1410395,"mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome"
+SUBSTANCE,1410394,"mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome"
+SUBSTANCE,1410385,"mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome"
+SUBSTANCE,1410386,"mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome"
+SUBSTANCE,45600706,"mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome"
+SUBSTANCE,1410384,"mental and behavioural disorders due to use of sedatives or hypnotics, harmful use"
+SUBSTANCE,45600705,"mental and behavioural disorders due to use of sedatives or hypnotics, harmful use"
+SUBSTANCE,1410383,"mental and behavioural disorders due to use of sedatives or hypnotics, harmful use"
+SUBSTANCE,1410398,"mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders"
+SUBSTANCE,45755378,"mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders"
+SUBSTANCE,1410399,"mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders"
+SUBSTANCE,1410392,"mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder"
+SUBSTANCE,45566794,"mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder"
+SUBSTANCE,1410393,"mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder"
+SUBSTANCE,45566795,"mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder"
+SUBSTANCE,1410396,"mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder"
+SUBSTANCE,1410397,"mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder"
+SUBSTANCE,1410401,"mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder"
+SUBSTANCE,1410400,"mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder"
+SUBSTANCE,45538026,"mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder"
+SUBSTANCE,1410389,"mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state"
+SUBSTANCE,1410388,"mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state"
+SUBSTANCE,45755375,"mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state"
+SUBSTANCE,45586218,mental and behavioural disorders due to use of tobacco
+SUBSTANCE,1410467,mental and behavioural disorders due to use of tobacco
+SUBSTANCE,1410481,"mental and behavioural disorders due to use of tobacco, amnesic syndrome"
+SUBSTANCE,1410482,"mental and behavioural disorders due to use of tobacco, amnesic syndrome"
+SUBSTANCE,45542823,"mental and behavioural disorders due to use of tobacco, amnesic syndrome"
+SUBSTANCE,1410486,"mental and behavioural disorders due to use of tobacco, other mental and behavioural disorders"
+SUBSTANCE,1410485,"mental and behavioural disorders due to use of tobacco, other mental and behavioural disorders"
+SUBSTANCE,45542824,"mental and behavioural disorders due to use of tobacco, other mental and behavioural disorders"
+SUBSTANCE,1410480,"mental and behavioural disorders due to use of tobacco, psychotic disorder"
+SUBSTANCE,45542822,"mental and behavioural disorders due to use of tobacco, psychotic disorder"
+SUBSTANCE,1410479,"mental and behavioural disorders due to use of tobacco, psychotic disorder"
+SUBSTANCE,45591118,"mental and behavioural disorders due to use of tobacco, residual and late-onset psychotic disorder"
+SUBSTANCE,1410484,"mental and behavioural disorders due to use of tobacco, residual and late-onset psychotic disorder"
+SUBSTANCE,1410483,"mental and behavioural disorders due to use of tobacco, residual and late-onset psychotic disorder"
+SUBSTANCE,1410487,"mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder"
+SUBSTANCE,45542825,"mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder"
+SUBSTANCE,1410488,"mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder"
+SUBSTANCE,1410476,"mental and behavioural disorders due to use of tobacco, withdrawal state"
+SUBSTANCE,1410475,"mental and behavioural disorders due to use of tobacco, withdrawal state"
+SUBSTANCE,45576522,"mental and behavioural disorders due to use of tobacco, withdrawal state"
+SUBSTANCE,1410477,"mental and behavioural disorders due to use of tobacco, withdrawal state with delirium"
+SUBSTANCE,45562026,"mental and behavioural disorders due to use of tobacco, withdrawal state with delirium"
+SUBSTANCE,1410478,"mental and behavioural disorders due to use of tobacco, withdrawal state with delirium"
+SUBSTANCE,45547682,mental and behavioural disorders due to use of volatile solvents
+SUBSTANCE,1410489,mental and behavioural disorders due to use of volatile solvents
+SUBSTANCE,1410502,"mental and behavioural disorders due to use of volatile solvents, amnesic syndrome"
+SUBSTANCE,1410503,"mental and behavioural disorders due to use of volatile solvents, amnesic syndrome"
+SUBSTANCE,45571745,"mental and behavioural disorders due to use of volatile solvents, amnesic syndrome"
+SUBSTANCE,1410506,"mental and behavioural disorders due to use of volatile solvents, other mental and behavioural disorders"
+SUBSTANCE,45600722,"mental and behavioural disorders due to use of volatile solvents, other mental and behavioural disorders"
+SUBSTANCE,1410507,"mental and behavioural disorders due to use of volatile solvents, other mental and behavioural disorders"
+SUBSTANCE,45571744,"mental and behavioural disorders due to use of volatile solvents, psychotic disorder"
+SUBSTANCE,1410501,"mental and behavioural disorders due to use of volatile solvents, psychotic disorder"
+SUBSTANCE,1410500,"mental and behavioural disorders due to use of volatile solvents, psychotic disorder"
+SUBSTANCE,1410505,"mental and behavioural disorders due to use of volatile solvents, residual and late-onset psychotic disorder"
+SUBSTANCE,45552456,"mental and behavioural disorders due to use of volatile solvents, residual and late-onset psychotic disorder"
+SUBSTANCE,1410504,"mental and behavioural disorders due to use of volatile solvents, residual and late-onset psychotic disorder"
+SUBSTANCE,1410509,"mental and behavioural disorders due to use of volatile solvents, unspecified mental and behavioural disorder"
+SUBSTANCE,1410508,"mental and behavioural disorders due to use of volatile solvents, unspecified mental and behavioural disorder"
+SUBSTANCE,45600723,"mental and behavioural disorders due to use of volatile solvents, unspecified mental and behavioural disorder"
+SUBSTANCE,1410498,"mental and behavioural disorders due to use of volatile solvents, withdrawal state with delirium"
+SUBSTANCE,45557186,"mental and behavioural disorders due to use of volatile solvents, withdrawal state with delirium"
+SUBSTANCE,1410499,"mental and behavioural disorders due to use of volatile solvents, withdrawal state with delirium"
+SUBSTANCE,45552453,"nicotine dependence, chewing tobacco, with other nicotine-induced disorders"
+SUBSTANCE,45571742,"nicotine dependence, chewing tobacco, with unspecified nicotine-induced disorders"
+SUBSTANCE,45566810,"nicotine dependence, chewing tobacco, with withdrawal"
+SUBSTANCE,45542821,"nicotine dependence, cigarettes, with other nicotine-induced disorders"
+SUBSTANCE,45595885,"nicotine dependence, cigarettes, with unspecified nicotine-induced disorders"
+SUBSTANCE,45591116,"nicotine dependence, cigarettes, with withdrawal"
+SUBSTANCE,45600720,"nicotine dependence, other tobacco product, with other nicotine-induced disorders"
+SUBSTANCE,45533085,"nicotine dependence, other tobacco product, with unspecified nicotine-induced disorders"
+SUBSTANCE,45552454,"nicotine dependence, other tobacco product, with withdrawal"
+SUBSTANCE,45586219,"nicotine dependence, unspecified, with other nicotine-induced disorders"
+SUBSTANCE,45581435,"nicotine dependence, unspecified, with unspecified nicotine-induced disorders"
+SUBSTANCE,45571741,"nicotine dependence unspecified, with withdrawal"
+SUBSTANCE,45571712,opioid abuse with intoxication delirium
+SUBSTANCE,45566782,opioid abuse with opioid-induced mood disorder
+SUBSTANCE,1568109,opioid abuse with opioid-induced psychotic disorder
+SUBSTANCE,45562007,"opioid abuse with opioid-induced psychotic disorder, unspecified"
+SUBSTANCE,45576499,opioid abuse with opioid-induced psychotic disorder with delusions
+SUBSTANCE,45571713,opioid abuse with opioid-induced psychotic disorder with hallucinations
+SUBSTANCE,45542793,opioid abuse with opioid-induced sexual dysfunction
+SUBSTANCE,1568110,opioid abuse with other opioid-induced disorder
+SUBSTANCE,45542794,opioid abuse with other opioid-induced disorder
+SUBSTANCE,45576500,opioid abuse with unspecified opioid-induced disorder
+SUBSTANCE,45542796,opioid dependence with intoxication delirium
+SUBSTANCE,45605460,opioid dependence with opioid-induced mood disorder
+SUBSTANCE,45566783,opioid dependence with opioid-induced psychotic disorder
+SUBSTANCE,45566784,"opioid dependence with opioid-induced psychotic disorder, unspecified"
+SUBSTANCE,45595854,opioid dependence with opioid-induced psychotic disorder with delusions
+SUBSTANCE,45591090,opioid dependence with opioid-induced psychotic disorder with hallucinations
+SUBSTANCE,45591091,opioid dependence with opioid-induced sexual dysfunction
+SUBSTANCE,1568112,opioid dependence with other opioid-induced disorder
+SUBSTANCE,45566785,opioid dependence with other opioid-induced disorder
+SUBSTANCE,45605461,opioid dependence with unspecified opioid-induced disorder
+SUBSTANCE,45557160,opioid dependence with withdrawal
+SUBSTANCE,1568106,opioid related disorders
+SUBSTANCE,1568113,"opioid use, unspecified"
+SUBSTANCE,45586196,"opioid use, unspecified, uncomplicated"
+SUBSTANCE,45566786,"opioid use, unspecified with intoxication delirium"
+SUBSTANCE,45586198,"opioid use, unspecified with opioid-induced mood disorder"
+SUBSTANCE,1568115,"opioid use, unspecified with opioid-induced psychotic disorder"
+SUBSTANCE,45595856,"opioid use, unspecified with opioid-induced psychotic disorder, unspecified"
+SUBSTANCE,45591095,"opioid use, unspecified with opioid-induced psychotic disorder with delusions"
+SUBSTANCE,45605464,"opioid use, unspecified with opioid-induced psychotic disorder with hallucinations"
+SUBSTANCE,45557162,"opioid use, unspecified with opioid-induced sexual dysfunction"
+SUBSTANCE,45595857,"opioid use, unspecified with other opioid-induced disorder"
+SUBSTANCE,1568116,"opioid use, unspecified with other specified opioid-induced disorder"
+SUBSTANCE,45533068,"opioid use, unspecified with unspecified opioid-induced disorder"
+SUBSTANCE,45586197,"opioid use, unspecified with withdrawal"
+SUBSTANCE,1410231,"organic amnesic syndrome, not induced by alcohol and other psychoactive substances"
+SUBSTANCE,45533062,"organic amnesic syndrome, not induced by alcohol and other psychoactive substances"
+SUBSTANCE,1410232,"organic amnesic syndrome, not induced by alcohol and other psychoactive substances"
+SUBSTANCE,44836956,other alcohol-induced mental disorders
+SUBSTANCE,44819550,other and unspecified alcohol dependence
+SUBSTANCE,44825305,"other and unspecified alcohol dependence, continuous"
+SUBSTANCE,44819551,"other and unspecified alcohol dependence, episodic"
+SUBSTANCE,44828838,"other and unspecified alcohol dependence, in remission"
+SUBSTANCE,44831100,"other and unspecified alcohol dependence, unspecified"
+SUBSTANCE,45533089,other psychoactive substance abuse with intoxication delirium
+SUBSTANCE,45595891,other psychoactive substance abuse with other psychoactive substance-induced disorder
+SUBSTANCE,1568198,other psychoactive substance abuse with other psychoactive substance-induced disorders
+SUBSTANCE,45562031,other psychoactive substance abuse with psychoactive substance-induced anxiety disorder
+SUBSTANCE,45542829,other psychoactive substance abuse with psychoactive substance-induced mood disorder
+SUBSTANCE,45595890,other psychoactive substance abuse with psychoactive substance-induced persisting amnestic disorder
+SUBSTANCE,45581438,other psychoactive substance abuse with psychoactive substance-induced persisting dementia
+SUBSTANCE,1568197,other psychoactive substance abuse with psychoactive substance-induced psychotic disorder
+SUBSTANCE,45562030,"other psychoactive substance abuse with psychoactive substance-induced psychotic disorder, unspecified"
+SUBSTANCE,45566818,other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with delusions
+SUBSTANCE,45600726,other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with hallucinations
+SUBSTANCE,45566819,other psychoactive substance abuse with unspecified psychoactive substance-induced disorder
+SUBSTANCE,1568199,other psychoactive substance dependence
+SUBSTANCE,45542830,"other psychoactive substance dependence, uncomplicated"
+SUBSTANCE,45586226,other psychoactive substance dependence with intoxication
+SUBSTANCE,45591122,other psychoactive substance dependence with intoxication delirium
+SUBSTANCE,45586227,"other psychoactive substance dependence with intoxication, uncomplicated"
+SUBSTANCE,45600727,"other psychoactive substance dependence with intoxication, unspecified"
+SUBSTANCE,45547687,other psychoactive substance dependence with intoxication with perceptual disturbance
+SUBSTANCE,45562033,other psychoactive substance dependence with other psychoactive substance-induced disorder
+SUBSTANCE,1568200,other psychoactive substance dependence with other psychoactive substance-induced disorders
+SUBSTANCE,45591124,other psychoactive substance dependence with psychoactive substance-induced anxiety disorder
+SUBSTANCE,45600729,other psychoactive substance dependence with psychoactive substance-induced mood disorder
+SUBSTANCE,45542833,other psychoactive substance dependence with psychoactive substance-induced persisting amnestic disorder
+SUBSTANCE,45571746,other psychoactive substance dependence with psychoactive substance-induced persisting dementia
+SUBSTANCE,45542832,other psychoactive substance dependence with psychoactive substance-induced psychotic disorder
+SUBSTANCE,45562032,"other psychoactive substance dependence with psychoactive substance-induced psychotic disorder, unspecified"
+SUBSTANCE,45595892,other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with delusions
+SUBSTANCE,45595893,other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with hallucinations
+SUBSTANCE,45581439,other psychoactive substance dependence with psychoactive substance-induced sexual dysfunction
+SUBSTANCE,45600730,other psychoactive substance dependence with psychoactive substance-induced sleep disorder
+SUBSTANCE,45576528,other psychoactive substance dependence with unspecified psychoactive substance-induced disorder
+SUBSTANCE,45547688,other psychoactive substance dependence with withdrawal
+SUBSTANCE,45576527,other psychoactive substance dependence with withdrawal delirium
+SUBSTANCE,45542831,"other psychoactive substance dependence with withdrawal, uncomplicated"
+SUBSTANCE,45591123,"other psychoactive substance dependence with withdrawal, unspecified"
+SUBSTANCE,45600728,other psychoactive substance dependence with withdrawal with perceptual disturbance
+SUBSTANCE,1568194,other psychoactive substance related disorders
+SUBSTANCE,1568201,"other psychoactive substance use, unspecified"
+SUBSTANCE,45552463,"other psychoactive substance use, unspecified, uncomplicated"
+SUBSTANCE,45538053,"other psychoactive substance use, unspecified with intoxication with delirium"
+SUBSTANCE,45547692,"other psychoactive substance use, unspecified with other psychoactive substance-induced disorder"
+SUBSTANCE,1568205,"other psychoactive substance use, unspecified with other psychoactive substance-induced disorders"
+SUBSTANCE,45547691,"other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder"
+SUBSTANCE,45581441,"other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder"
+SUBSTANCE,45547689,"other psychoactive substance use, unspecified with psychoactive substance-induced persisting amnestic disorder"
+SUBSTANCE,45547690,"other psychoactive substance use, unspecified with psychoactive substance-induced persisting dementia"
+SUBSTANCE,1568204,"other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder"
+SUBSTANCE,45566829,"other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder, unspecified"
+SUBSTANCE,45566828,"other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with delusions"
+SUBSTANCE,45581442,"other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with hallucinations"
+SUBSTANCE,45547693,"other psychoactive substance use, unspecified with unspecified psychoactive substance-induced disorder"
+SUBSTANCE,1568203,"other psychoactive substance use, unspecified with withdrawal"
+SUBSTANCE,45576530,"other psychoactive substance use, unspecified with withdrawal delirium"
+SUBSTANCE,45566826,"other psychoactive substance use, unspecified with withdrawal, uncomplicated"
+SUBSTANCE,45566827,"other psychoactive substance use, unspecified with withdrawal, unspecified"
+SUBSTANCE,45557192,"other psychoactive substance use, unspecified with withdrawal with perceptual disturbance"
+SUBSTANCE,35207140,other psychotic disorder not due to a substance or known physiological condition
+SUBSTANCE,44822967,other specified alcohol-induced mental disorders
+SUBSTANCE,44834583,other specified drug-induced mental disorders
+SUBSTANCE,44820711,other specified drug-induced mental disorders
+SUBSTANCE,45576514,other stimulant abuse with intoxication delirium
+SUBSTANCE,1568156,other stimulant abuse with other stimulant-induced disorder
+SUBSTANCE,45591110,other stimulant abuse with other stimulant-induced disorder
+SUBSTANCE,45533078,other stimulant abuse with stimulant-induced anxiety disorder
+SUBSTANCE,45595874,other stimulant abuse with stimulant-induced mood disorder
+SUBSTANCE,1568155,other stimulant abuse with stimulant-induced psychotic disorder
+SUBSTANCE,45605471,"other stimulant abuse with stimulant-induced psychotic disorder, unspecified"
+SUBSTANCE,45538036,other stimulant abuse with stimulant-induced psychotic disorder with delusions
+SUBSTANCE,45591108,other stimulant abuse with stimulant-induced psychotic disorder with hallucinations
+SUBSTANCE,45581430,other stimulant abuse with unspecified stimulant-induced disorder
+SUBSTANCE,45595877,other stimulant dependence with intoxication delirium
+SUBSTANCE,45557178,other stimulant dependence with other stimulant-induced disorder
+SUBSTANCE,1568159,other stimulant dependence with other stimulant-induced disorder
+SUBSTANCE,45566802,other stimulant dependence with stimulant-induced anxiety disorder
+SUBSTANCE,45605472,other stimulant dependence with stimulant-induced mood disorder
+SUBSTANCE,1568158,other stimulant dependence with stimulant-induced psychotic disorder
+SUBSTANCE,45571732,other stimulant dependence with stimulant-induced psychotic disorder with delusions
+SUBSTANCE,45542810,other stimulant dependence with stimulant-induced psychotic disorder with hallucinations
+SUBSTANCE,45591111,other stimulant dependence with unspecified stimulant-induced disorder
+SUBSTANCE,1568160,"other stimulant use, unspecified"
+SUBSTANCE,45538038,"other stimulant use, unspecified, uncomplicated"
+SUBSTANCE,45552447,"other stimulant use, unspecified with intoxication delirium"
+SUBSTANCE,1568163,"other stimulant use, unspecified with other stimulant-induced disorder"
+SUBSTANCE,45542814,"other stimulant use, unspecified with other stimulant-induced disorder"
+SUBSTANCE,45538040,"other stimulant use, unspecified with stimulant-induced anxiety disorder"
+SUBSTANCE,45538039,"other stimulant use, unspecified with stimulant-induced mood disorder"
+SUBSTANCE,1568162,"other stimulant use, unspecified with stimulant-induced psychotic disorder"
+SUBSTANCE,45542813,"other stimulant use, unspecified with stimulant-induced psychotic disorder, unspecified"
+SUBSTANCE,45566805,"other stimulant use, unspecified with stimulant-induced psychotic disorder with delusions"
+SUBSTANCE,45586213,"other stimulant use, unspecified with stimulant-induced psychotic disorder with hallucinations"
+SUBSTANCE,45571733,"other stimulant use, unspecified with unspecified stimulant-induced disorder"
+SUBSTANCE,1410973,pathological gambling
+SUBSTANCE,35207220,pathological gambling
+SUBSTANCE,45600757,pathological gambling
+SUBSTANCE,44826528,pathological gambling
+SUBSTANCE,1410972,pathological gambling
+SUBSTANCE,45562010,"sedative, hypnotic or anxiolytic abuse, uncomplicated"
+SUBSTANCE,1568130,"sedative, hypnotic or anxiolytic abuse with intoxication"
+SUBSTANCE,45538019,"sedative, hypnotic or anxiolytic abuse with intoxication delirium"
+SUBSTANCE,45552436,"sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated"
+SUBSTANCE,45562011,"sedative, hypnotic or anxiolytic abuse with intoxication, unspecified"
+SUBSTANCE,45538021,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+SUBSTANCE,45595863,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced mood disorder"
+SUBSTANCE,1568131,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder"
+SUBSTANCE,45538020,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions"
+SUBSTANCE,45562012,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations"
+SUBSTANCE,45552437,"sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sleep disorder"
+SUBSTANCE,45542802,"sedative, hypnotic or anxiolytic dependence with intoxication delirium"
+SUBSTANCE,45566793,"sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorder"
+SUBSTANCE,1568135,"sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorders"
+SUBSTANCE,45562013,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+SUBSTANCE,45595866,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced mood disorder"
+SUBSTANCE,45557168,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder"
+SUBSTANCE,45552440,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting dementia"
+SUBSTANCE,45538025,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder"
+SUBSTANCE,45576506,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified"
+SUBSTANCE,45581419,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions"
+SUBSTANCE,45542803,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations"
+SUBSTANCE,45552442,"sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sleep disorder"
+SUBSTANCE,45576507,"sedative, hypnotic or anxiolytic dependence with unspecified sedative, hypnotic or anxiolytic-induced disorder"
+SUBSTANCE,1568129,"sedative, hypnotic or anxiolytic-related abuse"
+SUBSTANCE,1568128,"sedative, hypnotic, or anxiolytic related disorders"
+SUBSTANCE,1568136,"sedative, hypnotic or anxiolytic-related use, unspecified"
+SUBSTANCE,45542804,"sedative, hypnotic, or anxiolytic use, unspecified, uncomplicated"
+SUBSTANCE,1568137,"sedative, hypnotic or anxiolytic use, unspecified with intoxication"
+SUBSTANCE,45595867,"sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium"
+SUBSTANCE,45542805,"sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated"
+SUBSTANCE,45566796,"sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified"
+SUBSTANCE,45595868,"sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorder"
+SUBSTANCE,1568140,"sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorders"
+SUBSTANCE,45562015,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder"
+SUBSTANCE,45605466,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced mood disorder"
+SUBSTANCE,45533073,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder"
+SUBSTANCE,45542806,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting dementia"
+SUBSTANCE,1568139,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder"
+SUBSTANCE,45586204,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified"
+SUBSTANCE,45581422,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions"
+SUBSTANCE,45571725,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations"
+SUBSTANCE,45586205,"sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sleep disorder"
+SUBSTANCE,45547679,"sedative, hypnotic or anxiolytic use, unspecified with unspecified sedative, hypnotic or anxiolytic-induced disorder"
+SUBSTANCE,45538027,"sedative, hypnotic or anxiolytic use, unspecified with withdrawal with perceptual disturbances"
+SUBSTANCE,44831080,unspecified alcohol-induced mental disorders
+SUBSTANCE,44836958,unspecified drug-induced mental disorder
+SUBSTANCE,35207141,unspecified psychosis not due to a substance or known physiological condition
+DEVELOPMENTAL,44828850,academic underachievement disorder of childhood or adolescence
+DEVELOPMENTAL,1595688,angelman syndrome
+DEVELOPMENTAL,35207257,asperger's syndrome
+DEVELOPMENTAL,45576562,asperger syndrome
+DEVELOPMENTAL,1411112,asperger syndrome
+DEVELOPMENTAL,1411113,asperger syndrome
+DEVELOPMENTAL,44821835,attention deficit disorder of childhood
+DEVELOPMENTAL,44822997,attention deficit disorder with hyperactivity
+DEVELOPMENTAL,44829951,attention deficit disorder without mention of hyperactivity
+DEVELOPMENTAL,45552506,"attention-deficit hyperactivity disorder, combined type"
+DEVELOPMENTAL,35207264,"attention-deficit hyperactivity disorder, other type"
+DEVELOPMENTAL,35207263,"attention-deficit hyperactivity disorder, predominantly hyperactive type"
+DEVELOPMENTAL,35207262,"attention-deficit hyperactivity disorder, predominantly inattentive type"
+DEVELOPMENTAL,1568263,attention-deficit hyperactivity disorders
+DEVELOPMENTAL,35207265,"attention-deficit hyperactivity disorder, unspecified type"
+DEVELOPMENTAL,1411103,atypical autism
+DEVELOPMENTAL,1411104,atypical autism
+DEVELOPMENTAL,45595923,atypical autism
+DEVELOPMENTAL,35207254,autistic disorder
+DEVELOPMENTAL,44827659,autistic disorder
+DEVELOPMENTAL,44819543,"autistic disorder, current or active state"
+DEVELOPMENTAL,44825295,"autistic disorder, residual state"
+DEVELOPMENTAL,1411101,baby autism (machine translation)
+DEVELOPMENTAL,45582709,borderline intellectual functioning
+DEVELOPMENTAL,1411099,childhood autism
+DEVELOPMENTAL,45581475,childhood autism
+DEVELOPMENTAL,1411100,childhood autism
+DEVELOPMENTAL,44835789,childhood disintegrative disorder
+DEVELOPMENTAL,44825296,"childhood disintegrative disorder, current or active state"
+DEVELOPMENTAL,44821822,"childhood disintegrative disorder, residual state"
+DEVELOPMENTAL,1411173,"childhood disorder of social functioning, unspecified"
+DEVELOPMENTAL,35207279,"childhood disorder of social functioning, unspecified"
+DEVELOPMENTAL,45566857,"childhood disorder of social functioning, unspecified"
+DEVELOPMENTAL,1411174,"childhood disorder of social functioning, unspecified"
+DEVELOPMENTAL,1411179,chronic motor or vocal tic disorder
+DEVELOPMENTAL,45600766,chronic motor or vocal tic disorder
+DEVELOPMENTAL,35207281,chronic motor or vocal tic disorder
+DEVELOPMENTAL,44834607,chronic motor or vocal tic disorder
+DEVELOPMENTAL,1411178,chronic motor or vocal tic disorder
+DEVELOPMENTAL,1411180,chronic motor tic disorder (machine translation)
+DEVELOPMENTAL,45571782,combined vocal and multiple motor tic disorder [de la tourette]
+DEVELOPMENTAL,1411182,combined vocal and multiple motor tic disorder [de la tourette]
+DEVELOPMENTAL,1411181,combined vocal and multiple motor tic disorder [de la tourette]
+DEVELOPMENTAL,1411119,developmental agnosia (machine translation)
+DEVELOPMENTAL,44826530,developmental coordination disorder
+DEVELOPMENTAL,35207252,"developmental disorder of scholastic skills, unspecified"
+DEVELOPMENTAL,1411093,"developmental disorder of scholastic skills, unspecified"
+DEVELOPMENTAL,45581474,"developmental disorder of scholastic skills, unspecified"
+DEVELOPMENTAL,1411092,"developmental disorder of scholastic skills, unspecified"
+DEVELOPMENTAL,44821837,developmental reading disorder
+DEVELOPMENTAL,44825317,"developmental reading disorder, unspecified"
+DEVELOPMENTAL,45576564,disorders of social functioning with onset specific to childhood and adolescence
+DEVELOPMENTAL,1568266,disorders of social functioning with onset specific to childhood and adolescence
+DEVELOPMENTAL,1411164,disorders of social functioning with onset specific to childhood and adolescence
+DEVELOPMENTAL,44823417,fragile x syndrome
+DEVELOPMENTAL,44821836,hyperkinesis with developmental delay
+DEVELOPMENTAL,44825316,hyperkinetic syndrome of childhood
+DEVELOPMENTAL,45533039,lowe's syndrome
+DEVELOPMENTAL,1411065,low iq (machine translation)
+DEVELOPMENTAL,35207251,mathematics disorder
+DEVELOPMENTAL,44824140,mathematics disorder
+DEVELOPMENTAL,35207238,mild intellectual disabilities
+DEVELOPMENTAL,44828852,mild intellectual disabilities
+DEVELOPMENTAL,45538082,mild mental retardation
+DEVELOPMENTAL,1411035,mild mental retardation
+DEVELOPMENTAL,45571775,"mild mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411038,"mild mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411037,"mild mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,45552501,"mild mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,1411039,"mild mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45552502,"mild mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45595920,"mild mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1411036,"mild mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1411090,mixed disorder of scholastic skills
+DEVELOPMENTAL,45605515,mixed disorder of scholastic skills
+DEVELOPMENTAL,1411089,mixed disorder of scholastic skills
+DEVELOPMENTAL,35207239,moderate intellectual disabilities
+DEVELOPMENTAL,44825319,moderate intellectual disabilities
+DEVELOPMENTAL,1411040,moderate mental retardation
+DEVELOPMENTAL,45586256,moderate mental retardation
+DEVELOPMENTAL,45581470,"moderate mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411043,"moderate mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411042,"moderate mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,45533122,"moderate mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,1411044,"moderate mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45538084,"moderate mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45576559,"moderate mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1411041,"moderate mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1568268,other behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,1411189,other behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,45547724,other behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,35207256,other childhood disintegrative disorder
+DEVELOPMENTAL,1411107,other childhood disintegrative disorder
+DEVELOPMENTAL,1411108,other childhood disintegrative disorder
+DEVELOPMENTAL,45542869,other childhood disintegrative disorder
+DEVELOPMENTAL,45586266,other childhood disorders of social functioning
+DEVELOPMENTAL,1411171,other childhood disorders of social functioning
+DEVELOPMENTAL,35207278,other childhood disorders of social functioning
+DEVELOPMENTAL,1411172,other childhood disorders of social functioning
+DEVELOPMENTAL,1410965,other developmental disorders of scholastic skills
+DEVELOPMENTAL,1411091,other developmental disorders of scholastic skills
+DEVELOPMENTAL,45542868,other developmental disorders of scholastic skills
+DEVELOPMENTAL,45538087,other disorders of psychological development
+DEVELOPMENTAL,1411118,other disorders of psychological development
+DEVELOPMENTAL,35207260,other disorders of psychological development
+DEVELOPMENTAL,35207242,other intellectual disabilities
+DEVELOPMENTAL,45581471,other mental retardation
+DEVELOPMENTAL,1411055,other mental retardation
+DEVELOPMENTAL,1411058,"other mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,45538085,"other mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411057,"other mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,45547721,"other mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,1411059,"other mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45576560,"other mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45591153,"other mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1411056,"other mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,44831114,other or mixed emotional disturbances of childhood or adolescence
+DEVELOPMENTAL,45571780,other pervasive developmental disorders
+DEVELOPMENTAL,1411114,other pervasive developmental disorders
+DEVELOPMENTAL,35207258,other pervasive developmental disorders
+DEVELOPMENTAL,1411115,other pervasive developmental disorders
+DEVELOPMENTAL,45557217,other psychosexual development disorders
+DEVELOPMENTAL,1411021,other psychosexual development disorders
+DEVELOPMENTAL,1411022,other psychosexual development disorders
+DEVELOPMENTAL,44822998,other specific developmental reading disorder
+DEVELOPMENTAL,35207290,other specified behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,1411206,other specified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,1411207,other specified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,45605524,other specified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,44822999,other specified intellectual disabilities
+DEVELOPMENTAL,44821823,other specified pervasive developmental disorders
+DEVELOPMENTAL,44833401,"other specified pervasive developmental disorders, current or active state"
+DEVELOPMENTAL,44825297,"other specified pervasive developmental disorders, residual state"
+DEVELOPMENTAL,1411184,other tic disorders
+DEVELOPMENTAL,45595926,other tic disorders
+DEVELOPMENTAL,1411185,other tic disorders
+DEVELOPMENTAL,35207283,other tic disorders
+DEVELOPMENTAL,45595924,overactive disorder associated with mental retardation and stereotyped movements
+DEVELOPMENTAL,1411110,overactive disorder associated with mental retardation and stereotyped movements
+DEVELOPMENTAL,1411111,overactive disorder associated with mental retardation and stereotyped movements
+DEVELOPMENTAL,1411098,pervasive developmental disorders
+DEVELOPMENTAL,44822984,pervasive developmental disorders
+DEVELOPMENTAL,45600762,pervasive developmental disorders
+DEVELOPMENTAL,1568262,pervasive developmental disorders
+DEVELOPMENTAL,35207259,"pervasive developmental disorder, unspecified"
+DEVELOPMENTAL,1411116,"pervasive developmental disorder, unspecified"
+DEVELOPMENTAL,45600763,"pervasive developmental disorder, unspecified"
+DEVELOPMENTAL,1411117,"pervasive developmental disorder, unspecified"
+DEVELOPMENTAL,35207241,profound intellectual disabilities
+DEVELOPMENTAL,44828853,profound intellectual disabilities
+DEVELOPMENTAL,45586258,profound mental retardation
+DEVELOPMENTAL,1411050,profound mental retardation
+DEVELOPMENTAL,45571777,"profound mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411053,"profound mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411052,"profound mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,45605513,"profound mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,1411054,"profound mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45586259,"profound mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,1411051,"profound mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,45605512,"profound mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1411024,"psychosexual development disorder, unspecified"
+DEVELOPMENTAL,1411023,"psychosexual development disorder, unspecified"
+DEVELOPMENTAL,45571773,"psychosexual development disorder, unspecified"
+DEVELOPMENTAL,35207255,rett's syndrome
+DEVELOPMENTAL,1411105,rett syndrome
+DEVELOPMENTAL,45562066,rett syndrome
+DEVELOPMENTAL,1411106,rett syndrome
+DEVELOPMENTAL,44833425,"sensitivity, shyness, and social withdrawal disorder specific to childhood and adolescence"
+DEVELOPMENTAL,44824143,severe intellectual disabilities
+DEVELOPMENTAL,35207240,severe intellectual disabilities
+DEVELOPMENTAL,45533123,severe mental retardation
+DEVELOPMENTAL,1411045,severe mental retardation
+DEVELOPMENTAL,1411048,"severe mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,45586257,"severe mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,45571776,"severe mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,1411047,"severe mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,1411049,"severe mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45591152,"severe mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45542864,"severe mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1411046,"severe mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,44828849,shyness disorder of childhood
+DEVELOPMENTAL,1411081,specific developmental disorders of scholastic skills
+DEVELOPMENTAL,1568260,specific developmental disorders of scholastic skills
+DEVELOPMENTAL,45591156,specific developmental disorders of scholastic skills
+DEVELOPMENTAL,1411086,specific disorder of arithmetical skills
+DEVELOPMENTAL,45542867,specific disorder of arithmetical skills
+DEVELOPMENTAL,1411087,specific disorder of arithmetical skills
+DEVELOPMENTAL,1411083,specific reading disorder
+DEVELOPMENTAL,1411082,specific reading disorder
+DEVELOPMENTAL,45542866,specific reading disorder
+DEVELOPMENTAL,35207250,specific reading disorder
+DEVELOPMENTAL,45571779,specific spelling disorder
+DEVELOPMENTAL,1411085,specific spelling disorder
+DEVELOPMENTAL,1411084,specific spelling disorder
+DEVELOPMENTAL,1411200,stereotyped movement disorders
+DEVELOPMENTAL,45605523,stereotyped movement disorders
+DEVELOPMENTAL,35207288,stereotyped movement disorders
+DEVELOPMENTAL,1411201,stereotyped movement disorders
+DEVELOPMENTAL,44834608,stereotypic movement disorder
+DEVELOPMENTAL,1411208,thumb sucking (machine translation)
+DEVELOPMENTAL,1568267,tic disorder
+DEVELOPMENTAL,1411175,tic disorders
+DEVELOPMENTAL,45538093,tic disorders
+DEVELOPMENTAL,1411188,"tic disorder, unspecified"
+DEVELOPMENTAL,35207284,"tic disorder, unspecified"
+DEVELOPMENTAL,1411187,"tic disorder, unspecified"
+DEVELOPMENTAL,44825309,"tic disorder, unspecified"
+DEVELOPMENTAL,45576565,"tic disorder, unspecified"
+DEVELOPMENTAL,44820735,tics
+DEVELOPMENTAL,44825310,tourette's disorder
+DEVELOPMENTAL,35207282,tourette's disorder
+DEVELOPMENTAL,1411183,tourette's syndrome (machine translation)
+DEVELOPMENTAL,35207280,transient tic disorder
+DEVELOPMENTAL,44822991,transient tic disorder
+DEVELOPMENTAL,45552507,transient tic disorder
+DEVELOPMENTAL,1411177,transient tic disorder
+DEVELOPMENTAL,1411176,transient tic disorder
+DEVELOPMENTAL,35207291,unspecified behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,45547725,unspecified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,1411211,unspecified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,1411212,unspecified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+DEVELOPMENTAL,1411121,unspecified disorder of psychological development
+DEVELOPMENTAL,45557220,unspecified disorder of psychological development
+DEVELOPMENTAL,35207261,unspecified disorder of psychological development
+DEVELOPMENTAL,1411120,unspecified disorder of psychological development
+DEVELOPMENTAL,44833426,unspecified emotional disturbance of childhood or adolescence
+DEVELOPMENTAL,35207243,unspecified intellectual disabilities
+DEVELOPMENTAL,44827678,unspecified intellectual disabilities
+DEVELOPMENTAL,1411060,unspecified mental retardation
+DEVELOPMENTAL,45581472,unspecified mental retardation
+DEVELOPMENTAL,45557219,"unspecified mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411063,"unspecified mental retardation, other impairments of behaviour"
+DEVELOPMENTAL,1411062,"unspecified mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,45542865,"unspecified mental retardation, significant impairment of behaviour requiring attention or treatment"
+DEVELOPMENTAL,1411064,"unspecified mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45586260,"unspecified mental retardation, without mention of impairment of behaviour"
+DEVELOPMENTAL,45566855,"unspecified mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,1411061,"unspecified mental retardation, with the statement of no, or minimal, impairment of behaviour"
+DEVELOPMENTAL,44835790,unspecified pervasive developmental disorder
+DEVELOPMENTAL,44827660,"unspecified pervasive developmental disorder, current or active state"
+DEVELOPMENTAL,44833402,"unspecified pervasive developmental disorder, residual state"
+PSYCHOTIC,1410569,acute and transient psychotic disorders
+PSYCHOTIC,45571750,acute and transient psychotic disorders
+PSYCHOTIC,1410583,"acute and transient psychotic disorder, unspecified"
+PSYCHOTIC,45595899,"acute and transient psychotic disorder, unspecified"
+PSYCHOTIC,1410584,"acute and transient psychotic disorder, unspecified"
+PSYCHOTIC,1410570,acute polymorphic psychotic disorder without symptoms of schizophrenia
+PSYCHOTIC,1410571,acute polymorphic psychotic disorder without symptoms of schizophrenia
+PSYCHOTIC,45547697,acute polymorphic psychotic disorder without symptoms of schizophrenia
+PSYCHOTIC,1410575,acute polymorphic psychotic disorder with symptoms of schizophrenia
+PSYCHOTIC,45552473,acute polymorphic psychotic disorder with symptoms of schizophrenia
+PSYCHOTIC,1410574,acute polymorphic psychotic disorder with symptoms of schizophrenia
+PSYCHOTIC,1410577,acute schizophrenia-like psychotic disorder
+PSYCHOTIC,1410576,acute schizophrenia-like psychotic disorder
+PSYCHOTIC,45586233,acute schizophrenia-like psychotic disorder
+PSYCHOTIC,1410542,atypical schizophrenia (machine translation)
+PSYCHOTIC,35207134,brief psychotic disorder
+PSYCHOTIC,1410539,catatonia syndrome (machine translation)
+PSYCHOTIC,35207118,catatonic disorder due to known physiological condition
+PSYCHOTIC,35207128,catatonic schizophrenia
+PSYCHOTIC,1410537,catatonic schizophrenia
+PSYCHOTIC,1410538,catatonic schizophrenia
+PSYCHOTIC,45581445,catatonic schizophrenia
+PSYCHOTIC,44835780,catatonic type schizophrenia
+PSYCHOTIC,44827646,"catatonic type schizophrenia, chronic"
+PSYCHOTIC,44832226,"catatonic type schizophrenia, chronic with acute exacerbation"
+PSYCHOTIC,44822970,"catatonic type schizophrenia, in remission"
+PSYCHOTIC,44834586,"catatonic type schizophrenia, subchronic"
+PSYCHOTIC,44828826,"catatonic type schizophrenia, subchronic with acute exacerbation"
+PSYCHOTIC,44826494,"catatonic type schizophrenia, unspecified"
+PSYCHOTIC,1411102,childhood psychosis (machine translation)
+PSYCHOTIC,1410318,chronic alcoholism schizophreniform psychosis (machine translation)
+PSYCHOTIC,1410547,chronic schizophrenia (machine translation)
+PSYCHOTIC,44827658,delusional disorder
+PSYCHOTIC,45581451,delusional disorder
+PSYCHOTIC,1410560,delusional disorder
+PSYCHOTIC,1410561,delusional disorder
+PSYCHOTIC,35207133,delusional disorders
+PSYCHOTIC,1410563,delusion enthusiasts (machine translation)
+PSYCHOTIC,1410572,"delusions burst, acute episodes of delusions (machine translation)"
+PSYCHOTIC,1410655,depressive psychosis (machine translation)
+PSYCHOTIC,44832236,depressive type psychosis
+PSYCHOTIC,35207127,disorganized schizophrenia
+PSYCHOTIC,44831084,disorganized type schizophrenia
+PSYCHOTIC,44825288,"disorganized type schizophrenia, chronic"
+PSYCHOTIC,44826493,"disorganized type schizophrenia, chronic with acute exacerbation"
+PSYCHOTIC,44820713,"disorganized type schizophrenia, in remission"
+PSYCHOTIC,44826492,"disorganized type schizophrenia, subchronic"
+PSYCHOTIC,44832225,"disorganized type schizophrenia, subchronic with acute exacerbation"
+PSYCHOTIC,44824109,"disorganized type schizophrenia, unspecified"
+PSYCHOTIC,44828832,excitative type psychosis
+PSYCHOTIC,1410554,forced schizophrenia (machine translation)
+PSYCHOTIC,1410604,hallucination delusion state (machine translation)
+PSYCHOTIC,1410603,hallucinations (machine translation)
+PSYCHOTIC,45591128,hebephrenic schizophrenia
+PSYCHOTIC,1410535,hebephrenic schizophrenia
+PSYCHOTIC,1410536,hebephrenic schizophrenia
+PSYCHOTIC,1410799,hysterical psychosis (machine translation)
+PSYCHOTIC,1410588,induced delusional disorder
+PSYCHOTIC,45581454,induced delusional disorder
+PSYCHOTIC,1410589,induced delusional disorder
+PSYCHOTIC,44829919,latent schizophrenia
+PSYCHOTIC,44827649,"latent schizophrenia, chronic"
+PSYCHOTIC,44821817,"latent schizophrenia, chronic with acute exacerbation"
+PSYCHOTIC,44827650,"latent schizophrenia, in remission"
+PSYCHOTIC,44828828,"latent schizophrenia, subchronic"
+PSYCHOTIC,44820714,"latent schizophrenia, subchronic with acute exacerbation"
+PSYCHOTIC,44836962,"latent schizophrenia, unspecified"
+PSYCHOTIC,1410553,late onset schizophrenia (machine translation)
+PSYCHOTIC,1410757,mental disorders associated with the superstition of witchcraft (machine translation)
+PSYCHOTIC,45533063,organic catatonic disorder
+PSYCHOTIC,1410249,organic catatonic disorder
+PSYCHOTIC,1410250,organic catatonic disorder
+PSYCHOTIC,45581398,organic delusional [schizophrenia-like] disorder
+PSYCHOTIC,1410252,organic delusional [schizophrenia-like] disorder
+PSYCHOTIC,1410251,organic delusional [schizophrenia-like] disorder
+PSYCHOTIC,1410247,organic hallucinosis
+PSYCHOTIC,1410248,organic hallucinosis
+PSYCHOTIC,45552430,organic hallucinosis
+PSYCHOTIC,1410582,other acute and transient psychotic disorders
+PSYCHOTIC,45552475,other acute and transient psychotic disorders
+PSYCHOTIC,1410581,other acute and transient psychotic disorders
+PSYCHOTIC,1410579,other acute predominantly delusional psychotic disorders
+PSYCHOTIC,1410578,other acute predominantly delusional psychotic disorders
+PSYCHOTIC,45586234,other acute predominantly delusional psychotic disorders
+PSYCHOTIC,44836969,other and unspecified reactive psychosis
+PSYCHOTIC,44824119,other nonorganic psychoses
+PSYCHOTIC,1410602,other nonorganic psychotic disorders
+PSYCHOTIC,45605491,other nonorganic psychotic disorders
+PSYCHOTIC,1410601,other nonorganic psychotic disorders
+PSYCHOTIC,45533094,other persistent delusional disorders
+PSYCHOTIC,1410566,other persistent delusional disorders
+PSYCHOTIC,1410565,other persistent delusional disorders
+PSYCHOTIC,35207140,other psychotic disorder not due to a substance or known physiological condition
+PSYCHOTIC,35207138,other schizoaffective disorders
+PSYCHOTIC,45547700,other schizoaffective disorders
+PSYCHOTIC,1410597,other schizoaffective disorders
+PSYCHOTIC,1410598,other schizoaffective disorders
+PSYCHOTIC,45547696,other schizophrenia
+PSYCHOTIC,1568207,other schizophrenia
+PSYCHOTIC,1410550,other schizophrenia
+PSYCHOTIC,45552471,other schizophrenia
+PSYCHOTIC,1410551,other schizophrenia
+PSYCHOTIC,44820724,other specified paranoid states
+PSYCHOTIC,44826497,other specified types of schizophrenia
+PSYCHOTIC,44833399,"other specified types of schizophrenia, chronic"
+PSYCHOTIC,44832230,"other specified types of schizophrenia, chronic with acute exacerbation"
+PSYCHOTIC,44836963,"other specified types of schizophrenia, in remission"
+PSYCHOTIC,44824112,"other specified types of schizophrenia, subchronic"
+PSYCHOTIC,44831086,"other specified types of schizophrenia, subchronic with acute exacerbation"
+PSYCHOTIC,44831085,"other specified types of schizophrenia, unspecified"
+PSYCHOTIC,1410562,paranoid psychosis (machine translation)
+PSYCHOTIC,45547694,paranoid schizophrenia
+PSYCHOTIC,35207126,paranoid schizophrenia
+PSYCHOTIC,1410534,paranoid schizophrenia
+PSYCHOTIC,1410533,paranoid schizophrenia
+PSYCHOTIC,1410564,paranoid state (machine translation)
+PSYCHOTIC,44820723,paranoid states (delusional disorders)
+PSYCHOTIC,44826502,"paranoid state, simple"
+PSYCHOTIC,44835781,paranoid type schizophrenia
+PSYCHOTIC,44827647,"paranoid type schizophrenia, chronic"
+PSYCHOTIC,44822971,"paranoid type schizophrenia, chronic with acute exacerbation"
+PSYCHOTIC,44826496,"paranoid type schizophrenia, in remission"
+PSYCHOTIC,44821816,"paranoid type schizophrenia, subchronic"
+PSYCHOTIC,44826495,"paranoid type schizophrenia, subchronic with acute exacerbation"
+PSYCHOTIC,44821815,"paranoid type schizophrenia, unspecified"
+PSYCHOTIC,1410573,periodic psychosis (machine translation)
+PSYCHOTIC,1410559,persistent delusional disorders
+PSYCHOTIC,45581450,persistent delusional disorders
+PSYCHOTIC,1410567,"persistent delusional disorder, unspecified"
+PSYCHOTIC,1410568,"persistent delusional disorder, unspecified"
+PSYCHOTIC,45542837,"persistent delusional disorder, unspecified"
+PSYCHOTIC,1410543,post-schizophrenic depression
+PSYCHOTIC,1410544,post-schizophrenic depression
+PSYCHOTIC,45566833,post-schizophrenic depression
+PSYCHOTIC,1410839,psychogenic hallucinosis (machine translation)
+PSYCHOTIC,44835788,psychogenic paranoid psychosis
+PSYCHOTIC,35207119,psychotic disorder with delusions due to known physiological condition
+PSYCHOTIC,44835777,psychotic disorder with delusions in conditions classified elsewhere
+PSYCHOTIC,35207117,psychotic disorder with hallucinations due to known physiological condition
+PSYCHOTIC,44819536,psychotic disorder with hallucinations in conditions classified elsewhere
+PSYCHOTIC,1595540,puerperal psychosis
+PSYCHOTIC,1410922,puerperal psychosis (machine translation)
+PSYCHOTIC,1410545,residual schizophrenia
+PSYCHOTIC,45581447,residual schizophrenia
+PSYCHOTIC,35207130,residual schizophrenia
+PSYCHOTIC,1410546,residual schizophrenia
+PSYCHOTIC,44820715,residual type schizophrenic disorders
+PSYCHOTIC,44820716,schizoaffective disorder
+PSYCHOTIC,35207136,"schizoaffective disorder, bipolar type"
+PSYCHOTIC,44819537,"schizoaffective disorder, chronic"
+PSYCHOTIC,44827652,"schizoaffective disorder, chronic with acute exacerbation"
+PSYCHOTIC,1410593,"schizoaffective disorder, depressive type"
+PSYCHOTIC,35207137,"schizoaffective disorder, depressive type"
+PSYCHOTIC,1410594,"schizoaffective disorder, depressive type"
+PSYCHOTIC,45552476,"schizoaffective disorder, depressive type"
+PSYCHOTIC,44832229,"schizoaffective disorder, in remission"
+PSYCHOTIC,45547699,"schizoaffective disorder, manic type"
+PSYCHOTIC,1410592,"schizoaffective disorder, manic type"
+PSYCHOTIC,1410591,"schizoaffective disorder, manic type"
+PSYCHOTIC,1410595,"schizoaffective disorder, mixed type"
+PSYCHOTIC,1410596,"schizoaffective disorder, mixed type"
+PSYCHOTIC,45533098,"schizoaffective disorder, mixed type"
+PSYCHOTIC,1568208,schizoaffective disorders
+PSYCHOTIC,45571752,schizoaffective disorders
+PSYCHOTIC,1410590,schizoaffective disorders
+PSYCHOTIC,44834587,"schizoaffective disorder, subchronic"
+PSYCHOTIC,44832228,"schizoaffective disorder, subchronic with acute exacerbation"
+PSYCHOTIC,1410599,"schizoaffective disorder, unspecified"
+PSYCHOTIC,1410600,"schizoaffective disorder, unspecified"
+PSYCHOTIC,44835783,"schizoaffective disorder, unspecified"
+PSYCHOTIC,35207139,"schizoaffective disorder, unspecified"
+PSYCHOTIC,45605490,"schizoaffective disorder, unspecified"
+PSYCHOTIC,1410532,schizophrenia
+PSYCHOTIC,1568206,schizophrenia
+PSYCHOTIC,45542835,schizophrenia
+PSYCHOTIC,1410556,"schizophrenia, unspecified"
+PSYCHOTIC,35207131,"schizophrenia, unspecified"
+PSYCHOTIC,45576533,"schizophrenia, unspecified"
+PSYCHOTIC,1410555,"schizophrenia, unspecified"
+PSYCHOTIC,44829918,schizophrenic disorders
+PSYCHOTIC,44829920,"schizophrenic disorders, residual type, chronic"
+PSYCHOTIC,44821818,"schizophrenic disorders, residual type, chronic with acute exacerbation"
+PSYCHOTIC,44828829,"schizophrenic disorders, residual type, in remission"
+PSYCHOTIC,44832227,"schizophrenic disorders, residual type, subchronic"
+PSYCHOTIC,44827651,"schizophrenic disorders, residual type, subchronic with acute exacerbation"
+PSYCHOTIC,44825289,"schizophrenic disorders, residual type, unspecified"
+PSYCHOTIC,44824110,schizophreniform disorder
+PSYCHOTIC,45562038,schizophreniform disorder
+PSYCHOTIC,44824111,"schizophreniform disorder, chronic"
+PSYCHOTIC,44828827,"schizophreniform disorder, chronic with acute exacerbation"
+PSYCHOTIC,44836961,"schizophreniform disorder, in remission"
+PSYCHOTIC,44835782,"schizophreniform disorder, subchronic"
+PSYCHOTIC,44836960,"schizophreniform disorder, subchronic with acute exacerbation"
+PSYCHOTIC,44827648,"schizophreniform disorder, unspecified"
+PSYCHOTIC,1410557,schizotypal disorder
+PSYCHOTIC,35207132,schizotypal disorder
+PSYCHOTIC,45586232,schizotypal disorder
+PSYCHOTIC,1410558,schizotypal disorder
+PSYCHOTIC,35207135,shared psychotic disorder
+PSYCHOTIC,44836967,shared psychotic disorder
+PSYCHOTIC,45533093,simple schizophrenia
+PSYCHOTIC,1410548,simple schizophrenia
+PSYCHOTIC,1410549,simple schizophrenia
+PSYCHOTIC,44832223,simple type schizophrenia
+PSYCHOTIC,44822969,"simple type schizophrenia, chronic"
+PSYCHOTIC,44832224,"simple type schizophrenia, chronic with acute exacerbation"
+PSYCHOTIC,44835779,"simple type schizophrenia, in remission"
+PSYCHOTIC,44826491,"simple type schizophrenia, subchronic"
+PSYCHOTIC,44828825,"simple type schizophrenia, subchronic with acute exacerbation"
+PSYCHOTIC,44820712,"simple type schizophrenia, unspecified"
+PSYCHOTIC,1410552,somatosensory abnormalities in schizophrenia (machine translation)
+PSYCHOTIC,1410540,undifferentiated schizophrenia
+PSYCHOTIC,45595896,undifferentiated schizophrenia
+PSYCHOTIC,1410541,undifferentiated schizophrenia
+PSYCHOTIC,35207129,undifferentiated schizophrenia
+PSYCHOTIC,1410605,unspecified nonorganic psychosis
+PSYCHOTIC,1410606,unspecified nonorganic psychosis
+PSYCHOTIC,45533099,unspecified nonorganic psychosis
+PSYCHOTIC,44836968,unspecified paranoid state
+PSYCHOTIC,44832238,unspecified psychosis
+PSYCHOTIC,35207141,unspecified psychosis not due to a substance or known physiological condition
+PSYCHOTIC,44824113,unspecified schizophrenia
+PSYCHOTIC,44825291,"unspecified schizophrenia, chronic"
+PSYCHOTIC,44819538,"unspecified schizophrenia, chronic with acute exacerbation"
+PSYCHOTIC,44821819,"unspecified schizophrenia, in remission"
+PSYCHOTIC,44825290,"unspecified schizophrenia, subchronic"
+PSYCHOTIC,44834588,"unspecified schizophrenia, subchronic with acute exacerbation"
+PSYCHOTIC,44829921,"unspecified schizophrenia, unspecified"
+BIPOLAR,1410643,atypical bipolar disorder (machine translation)
+BIPOLAR,44824118,atypical manic disorder
+BIPOLAR,45595902,bipolar affective disorder
+BIPOLAR,1410620,bipolar affective disorder
+BIPOLAR,1410622,"bipolar affective disorder, current episode hypomanic"
+BIPOLAR,45542840,"bipolar affective disorder, current episode hypomanic"
+BIPOLAR,1410621,"bipolar affective disorder, current episode hypomanic"
+BIPOLAR,1410624,"bipolar affective disorder, current episode manic without psychotic symptoms"
+BIPOLAR,45576537,"bipolar affective disorder, current episode manic without psychotic symptoms"
+BIPOLAR,1410623,"bipolar affective disorder, current episode manic without psychotic symptoms"
+BIPOLAR,1410625,"bipolar affective disorder, current episode manic with psychotic symptoms"
+BIPOLAR,1410626,"bipolar affective disorder, current episode manic with psychotic symptoms"
+BIPOLAR,45571754,"bipolar affective disorder, current episode manic with psychotic symptoms"
+BIPOLAR,45571755,"bipolar affective disorder, current episode mild or moderate depression"
+BIPOLAR,1410627,"bipolar affective disorder, current episode mild or moderate depression"
+BIPOLAR,1410628,"bipolar affective disorder, current episode mild or moderate depression"
+BIPOLAR,1410635,"bipolar affective disorder, current episode mixed"
+BIPOLAR,45571757,"bipolar affective disorder, current episode mixed"
+BIPOLAR,1410634,"bipolar affective disorder, current episode mixed"
+BIPOLAR,45581456,"bipolar affective disorder, current episode severe depression without psychotic symptoms"
+BIPOLAR,1410630,"bipolar affective disorder, current episode severe depression without psychotic symptoms"
+BIPOLAR,1410631,"bipolar affective disorder, current episode severe depression without psychotic symptoms"
+BIPOLAR,1410632,"bipolar affective disorder, current episode severe depression with psychotic symptoms"
+BIPOLAR,1410633,"bipolar affective disorder, current episode severe depression with psychotic symptoms"
+BIPOLAR,45586236,"bipolar affective disorder, current episode severe depression with psychotic symptoms"
+BIPOLAR,1410636,"bipolar affective disorder, currently in remission"
+BIPOLAR,45581457,"bipolar affective disorder, currently in remission"
+BIPOLAR,1410638,"bipolar affective disorder, currently in remission"
+BIPOLAR,1410644,"bipolar affective disorder, unspecified"
+BIPOLAR,45571758,"bipolar affective disorder, unspecified"
+BIPOLAR,1410645,"bipolar affective disorder, unspecified"
+BIPOLAR,1568211,bipolar disorder
+BIPOLAR,45566839,"bipolar disorder, current episode depressed, mild"
+BIPOLAR,1568213,"bipolar disorder, current episode depressed, mild or moderate severity"
+BIPOLAR,45571756,"bipolar disorder, current episode depressed, mild or moderate severity, unspecified"
+BIPOLAR,45538062,"bipolar disorder, current episode depressed, moderate"
+BIPOLAR,35207147,"bipolar disorder, current episode depressed, severe, without psychotic features"
+BIPOLAR,35207148,"bipolar disorder, current episode depressed, severe, with psychotic features"
+BIPOLAR,35207145,"bipolar disorder, current episode hypomanic"
+BIPOLAR,35207146,"bipolar disorder, current episode manic severe with psychotic features"
+BIPOLAR,1568212,"bipolar disorder, current episode manic without psychotic features"
+BIPOLAR,45591134,"bipolar disorder, current episode manic without psychotic features, mild"
+BIPOLAR,45571753,"bipolar disorder, current episode manic without psychotic features, moderate"
+BIPOLAR,45538061,"bipolar disorder, current episode manic without psychotic features, severe"
+BIPOLAR,45552477,"bipolar disorder, current episode manic without psychotic features, unspecified"
+BIPOLAR,1568214,"bipolar disorder, current episode mixed"
+BIPOLAR,45542841,"bipolar disorder, current episode mixed, mild"
+BIPOLAR,45591135,"bipolar disorder, current episode mixed, moderate"
+BIPOLAR,45576539,"bipolar disorder, current episode mixed, severe, without psychotic features"
+BIPOLAR,45547703,"bipolar disorder, current episode mixed, severe, with psychotic features"
+BIPOLAR,45576538,"bipolar disorder, current episode mixed, unspecified"
+BIPOLAR,1568215,"bipolar disorder, currently in remission"
+BIPOLAR,45566840,"bipolar disorder, currently in remission, most recent episode unspecified"
+BIPOLAR,1410629,"bipolar disorder, currently moderate depressive episode (machine translation)"
+BIPOLAR,45542842,"bipolar disorder, in full remission, most recent episode depressed"
+BIPOLAR,45591136,"bipolar disorder, in full remission, most recent episode hypomanic"
+BIPOLAR,45576540,"bipolar disorder, in full remission, most recent episode manic"
+BIPOLAR,45538063,"bipolar disorder, in full remission, most recent episode mixed"
+BIPOLAR,45557201,"bipolar disorder, in partial remission, most recent episode depressed"
+BIPOLAR,45566841,"bipolar disorder, in partial remission, most recent episode hypomanic"
+BIPOLAR,45595903,"bipolar disorder, in partial remission, most recent episode manic"
+BIPOLAR,45542843,"bipolar disorder, in partial remission, most recent episode mixed"
+BIPOLAR,1410642,"bipolar disorder, rapid cycling (machine translation)"
+BIPOLAR,44822981,"bipolar disorder, unspecified"
+BIPOLAR,35207149,"bipolar disorder, unspecified"
+BIPOLAR,44834590,"bipolar i disorder, most recent episode (or current) depressed"
+BIPOLAR,44822977,"bipolar i disorder, most recent episode (or current) depressed, in full remission"
+BIPOLAR,44820721,"bipolar i disorder, most recent episode (or current) depressed, in partial or unspecified remission"
+BIPOLAR,44826500,"bipolar i disorder, most recent episode (or current) depressed, mild"
+BIPOLAR,44835786,"bipolar i disorder, most recent episode (or current) depressed, moderate"
+BIPOLAR,44820720,"bipolar i disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior"
+BIPOLAR,44831092,"bipolar i disorder, most recent episode (or current) depressed, severe, without mention of psychotic behavior"
+BIPOLAR,44836965,"bipolar i disorder, most recent episode (or current) depressed, unspecified"
+BIPOLAR,44831091,"bipolar i disorder, most recent episode (or current) manic"
+BIPOLAR,44829924,"bipolar i disorder, most recent episode (or current) manic, in full remission"
+BIPOLAR,44832233,"bipolar i disorder, most recent episode (or current) manic, in partial or unspecified remission"
+BIPOLAR,44820718,"bipolar i disorder, most recent episode (or current) manic, mild"
+BIPOLAR,44826499,"bipolar i disorder, most recent episode (or current) manic, moderate"
+BIPOLAR,44824116,"bipolar i disorder, most recent episode (or current) manic, severe, specified as with psychotic behavior"
+BIPOLAR,44820719,"bipolar i disorder, most recent episode (or current) manic, severe, without mention of psychotic behavior"
+BIPOLAR,44824115,"bipolar i disorder, most recent episode (or current) manic, unspecified"
+BIPOLAR,44828831,"bipolar i disorder, most recent episode (or current) mixed"
+BIPOLAR,44832234,"bipolar i disorder, most recent episode (or current) mixed, in full remission"
+BIPOLAR,44819542,"bipolar i disorder, most recent episode (or current) mixed, in partial or unspecified remission"
+BIPOLAR,44836966,"bipolar i disorder, most recent episode (or current) mixed, mild"
+BIPOLAR,44822978,"bipolar i disorder, most recent episode (or current) mixed, moderate"
+BIPOLAR,44824117,"bipolar i disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior"
+BIPOLAR,44822979,"bipolar i disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior"
+BIPOLAR,44820722,"bipolar i disorder, most recent episode (or current) mixed, unspecified"
+BIPOLAR,44827657,"bipolar i disorder, most recent episode (or current) unspecified"
+BIPOLAR,44828830,"bipolar i disorder, single manic episode"
+BIPOLAR,44822973,"bipolar i disorder, single manic episode, in full remission"
+BIPOLAR,44822972,"bipolar i disorder, single manic episode, in partial or unspecified remission"
+BIPOLAR,44833400,"bipolar i disorder, single manic episode, mild"
+BIPOLAR,44829922,"bipolar i disorder, single manic episode, moderate"
+BIPOLAR,44831087,"bipolar i disorder, single manic episode, severe, specified as with psychotic behavior"
+BIPOLAR,44819539,"bipolar i disorder, single manic episode, severe, without mention of psychotic behavior"
+BIPOLAR,44836964,"bipolar i disorder, single manic episode, unspecified"
+BIPOLAR,45542844,bipolar ii disorder
+BIPOLAR,44825300,chronic hypomanic personality disorder
+BIPOLAR,1410641,chronic mania (machine translation)
+BIPOLAR,1410681,cyclothymia
+BIPOLAR,45562043,cyclothymia
+BIPOLAR,1410680,cyclothymia
+BIPOLAR,44831095,cyclothymic disorder
+BIPOLAR,35207162,cyclothymic disorder
+BIPOLAR,1410614,delirium mania (machine translation)
+BIPOLAR,1410608,hypomania
+BIPOLAR,1410609,hypomania
+BIPOLAR,45547702,hypomania
+BIPOLAR,1410611,mania without psychotic symptoms
+BIPOLAR,45591133,mania without psychotic symptoms
+BIPOLAR,1410610,mania without psychotic symptoms
+BIPOLAR,1410613,mania with psychotic symptoms
+BIPOLAR,45557199,mania with psychotic symptoms
+BIPOLAR,1410612,mania with psychotic symptoms
+BIPOLAR,44822974,"manic affective disorder, recurrent episode, in full remission"
+BIPOLAR,44821820,"manic affective disorder, recurrent episode, in partial or unspecified remission"
+BIPOLAR,44819541,"manic affective disorder, recurrent episode, mild"
+BIPOLAR,44832231,"manic affective disorder, recurrent episode, moderate"
+BIPOLAR,44831088,"manic affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+BIPOLAR,44825292,"manic affective disorder, recurrent episode, severe, without mention of psychotic behavior"
+BIPOLAR,44819540,"manic affective disorder, recurrent episode, unspecified"
+BIPOLAR,44827653,"manic disorder, recurrent episode"
+BIPOLAR,45547701,manic episode
+BIPOLAR,1410607,manic episode
+BIPOLAR,1568209,manic episode
+BIPOLAR,45557200,manic episode in full remission
+BIPOLAR,45542839,manic episode in partial remission
+BIPOLAR,45581455,"manic episode, severe, without psychotic symptoms"
+BIPOLAR,35207142,"manic episode, severe with psychotic symptoms"
+BIPOLAR,45600738,"manic episode, unspecified"
+BIPOLAR,35207144,"manic episode, unspecified"
+BIPOLAR,1410618,"manic episode, unspecified"
+BIPOLAR,1410617,"manic episode, unspecified"
+BIPOLAR,1568210,manic episode without psychotic symptoms
+BIPOLAR,45595901,"manic episode without psychotic symptoms, mild"
+BIPOLAR,45586235,"manic episode without psychotic symptoms, moderate"
+BIPOLAR,45542838,"manic episode without psychotic symptoms, unspecified"
+BIPOLAR,44822980,other and unspecified bipolar disorders
+BIPOLAR,1410640,other bipolar affective disorders
+BIPOLAR,45586237,other bipolar affective disorders
+BIPOLAR,1410639,other bipolar affective disorders
+BIPOLAR,45538064,other bipolar disorder
+BIPOLAR,1568216,other bipolar disorders
+BIPOLAR,44829925,other bipolar disorders
+BIPOLAR,35207143,other manic episodes
+BIPOLAR,45576536,other manic episodes
+BIPOLAR,1410615,other manic episodes
+BIPOLAR,1410616,other manic episodes
